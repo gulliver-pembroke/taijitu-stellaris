@@ -1,0 +1,56 @@
+hemms = {
+	name = "hemms"
+	spawn_enabled = yes
+	
+	name_list = "Hemmish"
+	
+	species_name = "Hemm"
+	species_plural = "Hemms"
+	species_adjective = "Hemmish"
+	species_class = "MAM"
+	trait = "trait_conformists"
+	trait = "trait_strong"
+	trait = "trait_sedentary"
+	portrait = "mam14"
+	adjective = "Hemmish"
+	
+	government = "military_junta"
+	ethic = "ethic_xenophobe"
+	ethic = "ethic_militarist"
+	ethic = "ethic_collectivist"
+	
+	weapon = "tech_mass_drivers_1"
+	ftl = hyperdrive
+	
+	planet_name = "Hemmayot"
+	planet_class = "pc_tundra"
+	system_name = "Hrun"
+	
+	graphical_culture = "mammalian_01"
+	city_graphical_culture = "mammalian_01"
+	
+	empire_flag = {
+		icon= {
+			category = "spherical"
+			file = "flag_spherical_24.dds"
+		}
+		background= {
+			category = "backgrounds"
+			file = "00_solid.dds"
+		}
+		colors={
+			"blue"
+			"blue"
+			"null"
+			"null"
+		}
+	}
+	
+	ruler = {
+		name = "Sandyr Odavra Tapsyangok"
+		gender = male
+		portrait = "mam14"
+		texture = 0
+		clothes = 3
+	}
+}

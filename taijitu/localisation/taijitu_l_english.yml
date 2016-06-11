@@ -1,7 +1,10 @@
 ﻿l_english:
- #### NAMELIST EMPIRE NAMES
+ # Namelists
  name_list_Hemmish:0 "Hemmish"
  
- #Flag category keys are generated like "FLAG_CATEGORY_" + <name of folder in common/flags/>
+ # Empire names
+ EMPIRE_DESIGN_hemms:0 "Hemmish Federacy"
+ 
+ #Flag categories
  FLAG_CATEGORY_custom:0 "Custom"
  
