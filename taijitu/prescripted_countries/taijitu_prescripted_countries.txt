@@ -1,3 +1,60 @@
+advent = {
+	name = advent
+	spawn_enabled = yes
+	
+	name_list = Advent
+	
+	species_name = Ethereal
+	species_plural = Ethereals
+	species_adjective = Ethereal
+	species_class = REP
+	trait = trait_intelligent
+	trait = trait_quick_learners
+	trait = trait_enduring
+	trait = trait_slow_breeders
+	trait = trait_weak
+	portrait = rep12
+	adjective = Advent
+	
+	government = despotic_hegemony
+	ethic = ethic_fanatic_materialist
+	ethic = ethic_collectivist
+	
+	weapon = tech_lasers_1
+	ftl = warp
+	
+	planet_name = Advent
+	planet_class = pc_ocean
+	system_name = Nexus
+	
+	graphical_culture = reptilian_01
+	city_graphical_culture = reptilian_01
+	empire_flag = {
+		icon= {
+			category = "spherical"
+			file = "flag_spherical_24.dds"
+		}
+		background= {
+			category = "backgrounds"
+			file = "00_solid.dds"
+		}
+		colors={
+			"red"
+			"black"
+			"null"
+			"null"
+		}
+	}
+	
+	ruler = {
+		name = "Sandyr Odavra Tapsyangok"
+		gender = male
+		portrait = "mam14"
+		texture = 0
+		clothes = 3
+	}
+}
+
 hemms = {
 	name = "hemms"
 	spawn_enabled = yes

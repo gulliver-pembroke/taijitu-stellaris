@@ -1,0 +1,220 @@
+### Hemmish
+Hemmish = {
+	### SHIPS
+
+	ship_names = {
+
+		generic = {
+			Altar Ambition Apex Apogee Aspiration Assembly Beacon Boundary Celebration Chancel
+			Chantry Cohesion Commune Conclave Confluence Congregation Conservation Constancy
+			Convergance Convocation Cooperation Covenant Crest Crossroad Dedication Destiny Dignity
+			Diligence Discipline Elation Eminence Endurance Eternity Eudemonia Euphoria Exultation
+			Faith Fidelity Fount Gathering Gratitude Harmony Humility Integrity Jubilation Juncture
+			Loyalty Mandate Meridian Moderation Monolith Monument Nave Obedience Obelisk Obligation
+			Observance Order Patience Permanence Perseverance Piety Pinnacle Preservation
+			Proclamation Progress Prospect Prosperity Prudence Purpose Rapture Reverence Revery
+			Sacrifice Sanctity Seminary Serenity Shrine Sigil Stability Stele Sublimity Succession
+			Summit Tabernacle Temperance Terminal Tranquility Tribute Trust Union Vault Veneration
+			Veracity Verse Vertex Vestibule Vincture Virtue Zenith
+		}
+
+		corvette = {
+			Absolution Altruism Arsenal Ascendence Barrier Bastion Benediction Benevolence Blockade
+			Charity Citadel Clemency Compassion Dominion Empathy Fastness Firmament Fortress
+			Generosity Judgment Magnanimity Mercy Palisade Protection Rampart Redoubt Salvation
+			Supremacy Sympathy Vigil
+		}
+		
+		destroyer = {
+			Absolution Altruism Arsenal Ascendence Barrier Bastion Benediction Benevolence Blockade
+			Charity Citadel Clemency Compassion Dominion Empathy Fastness Firmament Fortress
+			Generosity Judgment Magnanimity Mercy Palisade Protection Rampart Redoubt Salvation
+			Supremacy Sympathy Vigil
+		}
+		
+			Absolution Altruism Arsenal Ascendence Barrier Bastion Benediction Benevolence Blockade
+			Charity Citadel Clemency Compassion Dominion Empathy Fastness Firmament Fortress
+			Generosity Judgment Magnanimity Mercy Palisade Protection Rampart Redoubt Salvation
+			Supremacy Sympathy Vigil
+		}
+		
+		battleship = {
+			Absolution Altruism Arsenal Ascendence Barrier Bastion Benediction Benevolence Blockade
+			Charity Citadel Clemency Compassion Dominion Empathy Fastness Firmament Fortress
+			Generosity Judgment Magnanimity Mercy Palisade Protection Rampart Redoubt Salvation
+			Supremacy Sympathy Vigil
+		}
+		
+		science = {
+			Academy Archive Enlightenment Epiphany Erudition Illumination Insight Inspiration
+			Institute Revelation Vision Wisdom
+		}
+		
+		colonizer = {
+			Asylum Creche Gospel Haven Passage Pulpit Refuge Sanctuary
+		}
+		
+		constructor = {
+			Capstone Conduit Cornerstone Crucible Forge Foundation Foundry Keystone
+		}
+		
+		
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			random_names = { }
+			sequential_name = "%O% Frontier Outpost"
+		}
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
+	}
+
+	fleet_names = {
+		random_names = {
+			"Joint Expeditionary Fleet" "Strategic Readiness Fleet" "Tactical Response Fleet" "Rapid Strike Fleet" "Forward Defense Fleet"
+		}
+		sequential_name = "%O% Stellar Fleet"
+	}
+	
+	army_names = {
+	
+		defense_army = {
+			sequential_name = "%O% Colonial Watch"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% Assault Group"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Penal Corps"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Tankbred Regulars"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Battle Drone Wing"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Droid Commando"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Psi-Ops Command"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Shock Swarm"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Purebloods"
+		}
+	}
+
+	### PLANETS
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Absolution Academy Altar Altruism Ambition Apex Apogee Archive Arsenal Ascendence
+				Aspiration Assembly Asylum Barrier Bastion Beacon Benediction Benevolence Blockade
+				Boundary Capstone Celebration Chancel Chantry Charity Citadel Clemency Cohesion
+				Commune Compassion Conclave Conduit Confluence Congregation Conservation Constancy
+				Convergance Convocation Cooperation Cornerstone Covenant Creche Crest Crossroad
+				Crucible Dedication Destiny Dignity Diligence Discipline Dominion Elation Eminence
+				Empathy Endurance Enlightenment Epiphany Erudition Eternity Eudemonia Euphoria
+				Exultation Faith Fastness Fidelity Firmament Forge Fortress Foundation Foundry Fount
+				Gathering Generosity Gospel Gratitude Harmony Haven Humility Illumination Insight
+				Inspiration Institute Integrity Jubilation Judgment Juncture Keystone Loyalty
+				Magnanimity Mandate Mercy Meridian Moderation Monolith Monument Nave Obedience
+				Obelisk Obligation Observance Order Palisade Passage Patience Permanence
+				Perseverance Piety Pinnacle Preservation Proclamation Progress Prospect Prosperity
+				Protection Prudence Pulpit Purpose Rampart Rapture Redoubt Refuge Revelation
+				Reverence Revery Sacrifice Salvation Sanctity Sanctuary Seminary Serenity Shrine
+				Sigil Stability Stele Sublimity Succession Summit Supremacy Sympathy Tabernacle
+				Temperance Terminal Tranquility Tribute Trust Union Vault Veneration Veracity Verse
+				Vertex Vestibule Vigil Vincture Virtue Vision Wisdom Zenith
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+		
+	}
+
+	### CHARACTERS
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				Ascendent Calm Dedicated Diligent Disciplined Eminent Faithful Gracious Judicious
+				Loyal Prudent Purposeful Reverent Serene Silent Tranquil Venerable Vigilant Wise
+				Worthy
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				Apostle Artificer Artisan Augur Craftsman Disciple Herald Initiate Master Peer
+				Prophet Pupil Sage Savant Scholar Seer Specialist Student Technician Witness
+			}
+			
+			regnal_first_names = {
+				Ascendent Calm Dedicated Diligent Disciplined Eminent Faithful Gracious Judicious
+				Loyal Prudent Purposeful Reverent Serene Silent Tranquil Venerable Vigilant Wise
+				Worthy
+			}
+			
+			regnal_second_names = {
+				Apostle Artificer Artisan Augur Craftsman Disciple Herald Initiate Master Peer
+				Prophet Pupil Sage Savant Scholar Seer Specialist Student Technician Witness
+			}
+		}
+	}
+}

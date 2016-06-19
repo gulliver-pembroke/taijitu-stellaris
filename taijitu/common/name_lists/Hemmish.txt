@@ -5,7 +5,15 @@ Hemmish = {
 	ship_names = {
 
 		generic = {
-			Garrav Syavksin Vokay Hagmat Semken Mondyr Bakyrsk Ustin Udnoy Khapkhnyk Ivken Handey Uzaq Yoskuuv Stokaar Ydarys Yarzyav Vaqkir Griqhan Bavvaq Oysk Hovrin Ksimden Mongor Rybney Psatmrak Kuntsok Morvans Kazansk Saamuy Ugniik Buyndok Seern Bizam Graakan Yazeen Severn Yuugen Vustoq Baskar Hervun Ennyk Donuv Uuvak Yazarm Akuyn Geetans Aaran Svey Sovmayk Tavgans Eernem Skeeydren Hayyant Vysbin Svayzunt Myeenner Dariv Yaavne Kaymar Nayden Hoyke Yarmas Spoyrans Skhator Irskyn Syntse Mavo Naytot Baskron Ammut Bazrak Hagmat Kenzem Tiknysk Hymron Gamnoyesk Koovuq Tamzre Iraazun Drospak Kvaansk Baqtor Siiknay Bivun Danram Haaskan Yantoy Oknysk Somtras Qrots Kseedverk Vadon Kostyr Kenyrt Myyrkiv
+			Garrav Syavksin Vokay Hagmat Semken Mondyr Bakyrsk Ustin Udnoy Khapkhnyk Ivken Handey
+			Uzaq Yoskuuv Stokaar Ydarys Yarzyav Vaqkir Griqhan Bavvaq Oysk Hovrin Ksimden Mongor
+			Rybney Psatmrak Kuntsok Morvans Kazansk Saamuy Ugniik Buyndok Seern Bizam Graakan
+			Yazeen Severn Yuugen Vustoq Baskar Hervun Ennyk Donuv Uuvak Yazarm Akuyn Geetans Aaran
+			Svey Sovmayk Tavgans Eernem Skeeydren Hayyant Vysbin Svayzunt Myeenner Dariv Yaavne
+			Kaymar Nayden Hoyke Yarmas Spoyrans Skhator Irskyn Syntse Mavo Naytot Baskron Ammut
+			Bazrak Hagmat Kenzem Tiknysk Hymron Gamnoyesk Koovuq Tamzre Iraazun Drospak Kvaansk
+			Baqtor Siiknay Bivun Danram Haaskan Yantoy Oknysk Somtras Qrots Kseedverk Vadon Kostyr
+			Kenyrt Myyrkiv
 		}
 
 		corvette = {
@@ -15,11 +23,23 @@ Hemmish = {
 		}
 		
 		cruiser = {
-			"Sovkay Krazvoyn" "Sovkay Myrskyya" "Sovkay Maksprok" "Sovkay Sannavaas" "Sovkay Tapsyangok" "Sovkay Seyzogriv" "Sovkay Vnikkos" "Sovkay Trosugon" "Sovkay Tsayvis" "Sovkay Ugaznik" "Sovkay Dorvok" "Sovkay Vokpnik" "Sovkay Hentras" "Sovkay Vagraskon" "Sovkay Rakhanksoq" "Sovkay Srivnok"
+			"Sovkay Krazvoyn" "Sovkay Myrskyya" "Sovkay Maksprok" "Sovkay Sannavaas"
+			"Sovkay Tapsyangok" "Sovkay Seyzogriv" "Sovkay Vnikkos" "Sovkay Trosugon"
+			"Sovkay Tsayvis" "Sovkay Ugaznik" "Sovkay Dorvok" "Sovkay Vokpnik" "Sovkay Hentras"
+			"Sovkay Vagraskon" "Sovkay Rakhanksoq" "Sovkay Srivnok"
 		}
 		
 		battleship = {
-			"Baan Yav" "Baan Oke" "Baan Samvar" "Baan Bannayk" "Baan Seym" "Baan Davn" "Baan Kasbin" "Baan Makt" "Baan Gav" "Baan Van" "Baan Barbosk" "Baan Brask" "Baan Garen" "Baan Sandyr" "Baan Vadim" "Baan Hagan" "Baan Kadey" "Baan Samra" "Baan Svans" "Baan Moskur" "Baan Hvatr" "Baan Aymat" "Baan Akim" "Baan Tassen" "Baan Enu" "Baan Kartun" "Baan Davr" "Baan Kov" "Baan Orsk" "Baan Uura" "Baan Maans" "Baan Byrk" "Baan Say" "Baan Radi" "Baan Demi" "Baan Esta" "Baan Izan" "Baan Aayun" "Baan Eyzin" "Baan Tayyin" "Baan Vossin" "Baan Svit" "Baan Navans" "Baan Sybet" "Baan Irii" "Baan Taym" "Baan Arins" "Baan Seyent" "Baan Avrink" "Baan Hazen" "Baan Svena" "Baan Vamar" "Baan Tyorrey" "Baan Sverde" "Baan Masse" "Baan Midor" "Baan Yuzmet" "Baan Nikkam" "Baan Karev" "Baan Ksemna" "Baan Ivis" "Baan Rydan" "Baan Merzyar" "Baan Kanzmat"
+			"Baan Yav" "Baan Oke" "Baan Samvar" "Baan Bannayk" "Baan Seym" "Baan Davn" "Baan Kasbin"
+			"Baan Makt" "Baan Gav" "Baan Van" "Baan Barbosk" "Baan Brask" "Baan Garen" "Baan Sandyr"
+			"Baan Vadim" "Baan Hagan" "Baan Kadey" "Baan Samra" "Baan Svans" "Baan Moskur"
+			"Baan Hvatr" "Baan Aymat" "Baan Akim" "Baan Tassen" "Baan Enu" "Baan Kartun" "Baan Davr"
+			"Baan Kov" "Baan Orsk" "Baan Uura" "Baan Maans" "Baan Byrk" "Baan Say" "Baan Radi"
+			"Baan Demi" "Baan Esta" "Baan Izan" "Baan Aayun" "Baan Eyzin" "Baan Tayyin"
+			"Baan Vossin" "Baan Svit" "Baan Navans" "Baan Sybet" "Baan Irii" "Baan Taym"
+			"Baan Arins" "Baan Seyent" "Baan Avrink" "Baan Hazen" "Baan Svena" "Baan Vamar"
+			"Baan Tyorrey" "Baan Sverde" "Baan Masse" "Baan Midor" "Baan Yuzmet" "Baan Nikkam"
+			"Baan Karev" "Baan Ksemna" "Baan Ivis" "Baan Rydan" "Baan Merzyar" "Baan Kanzmat"
 		}
 		
 		science = {
@@ -99,7 +119,14 @@ Hemmish = {
 
 		generic = {
 			names = {
-				Kryvrak Amandrak Dantrak Stayrak Hizayrak Namyurak Yannavrak Astoqrak Heydrak Mankorrak Yandrak Sannatayot Tmuzayot Mrotayot Ksanayot Immizayot Gunnuzayot Mastooyot Knittayot Ronneeyot Mavnayot Namkayot Ormayot Iivreyot Novayot Rayyot Kirritans Moyyeptans Naskurtans Destamtans Mroktans Qenystans Rostenktans Kruuptans Ronuktans Gydemtans Razunktans Qoraptans Kandortans Gaamtans Morattans Ksankatans Sayattans Tamzetans Khonnostans Hastomtans Kennettans Hoyyertans Mayavtans Maderken Kormen Kenziren Seyeten Kovuqen Kandeven Ramkinen Spaktans Genzayot Reynrak Ondayot Yuktans Mozayot Korrayot
+				Kryvrak Amandrak Dantrak Stayrak Hizayrak Namyurak Yannavrak Astoqrak Heydrak
+				Mankorrak Yandrak Sannatayot Tmuzayot Mrotayot Ksanayot Immizayot Gunnuzayot
+				Mastooyot Knittayot Ronneeyot Mavnayot Namkayot Ormayot Iivreyot Novayot Rayyot
+				Kirritans Moyyeptans Naskurtans Destamtans Mroktans Qenystans Rostenktans Kruuptans
+				Ronuktans Gydemtans Razunktans Qoraptans Kandortans Gaamtans Morattans Ksankatans
+				Sayattans Tamzetans Khonnostans Hastomtans Kennettans Hoyyertans Mayavtans Maderken
+				Kormen Kenziren Seyeten Kovuqen Kandeven Ramkinen Spaktans Genzayot Reynrak Ondayot
+				Yuktans Mozayot Korrayot
 			}
 		}
 		
@@ -150,20 +177,282 @@ Hemmish = {
 			
 			# Always combined with a second name
 			first_names = {
-				Yav Oke Samvar Bannayk Seym Davn Kasbin Makt Gav Van Barbosk Brask Garen Sandyr Vadim Hagan Kadey Samra Svans Moskur Hvatr Aymat Akim Tassen Enu Kartun Davr Kov Orsk Uura Maans Byrk Say Radi Demi Esta Izan Aayun Eyzin Tayyin Vossin Svit Navans Sybet Irii Taym Arins Seyent Avrink Hazen Svena Vamar Tyorrey Sverde Masse Midor Yuzmet Nikkam Karev Ksemna Ivis Rydan Merzyar Kanzmat
+				Yav Oke Samvar Bannayk Seym Davn Kasbin Makt Gav Van Barbosk Brask Garen Sandyr
+				Vadim Hagan Kadey Samra Svans Moskur Hvatr Aymat Akim Tassen Enu Kartun Davr Kov
+				Orsk Uura Maans Byrk Say Radi Demi Esta Izan Aayun Eyzin Tayyin Vossin Svit Navans
+				Sybet Irii Taym Arins Seyent Avrink Hazen Svena Vamar Tyorrey Sverde Masse Midor
+				Yuzmet Nikkam Karev Ksemna Ivis Rydan Merzyar Kanzmat
 			}
 			
 			# Always combined with a first name
 			second_names = {
-				"Oyava Krazvoyn" "Oyava Myrskyya" "Oyava Maksprok" "Oyava Sannavaas" "Oyava Tapsyangok" "Oyava Seyzogriv" "Oyava Vnikkos" "Oyava Trosugon" "Oyava Tsayvis" "Oyava Ugaznik" "Oyava Dorvok" "Oyava Vokpnik" "Oyava Hentras" "Oyava Vagraskon" "Oyava Rakhanksoq" "Oyava Srivnok" "Ovokeya Krazvoyn" "Ovokeya Myrskyya" "Ovokeya Maksprok" "Ovokeya Sannavaas" "Ovokeya Tapsyangok" "Ovokeya Seyzogriv" "Ovokeya Vnikkos" "Ovokeya Trosugon" "Ovokeya Tsayvis" "Ovokeya Ugaznik" "Ovokeya Dorvok" "Ovokeya Vokpnik" "Ovokeya Hentras" "Ovokeya Vagraskon" "Ovokeya Rakhanksoq" "Ovokeya Srivnok" "Ozamvara Krazvoyn" "Ozamvara Myrskyya" "Ozamvara Maksprok" "Ozamvara Sannavaas" "Ozamvara Tapsyangok" "Ozamvara Seyzogriv" "Ozamvara Vnikkos" "Ozamvara Trosugon" "Ozamvara Tsayvis" "Ozamvara Ugaznik" "Ozamvara Dorvok" "Ozamvara Vokpnik" "Ozamvara Hentras" "Ozamvara Vagraskon" "Ozamvara Rakhanksoq" "Ozamvara Srivnok" "Obannayka Krazvoyn" "Obannayka Myrskyya" "Obannayka Maksprok" "Obannayka Sannavaas" "Obannayka Tapsyangok" "Obannayka Seyzogriv" "Obannayka Vnikkos" "Obannayka Trosugon" "Obannayka Tsayvis" "Obannayka Ugaznik" "Obannayka Dorvok" "Obannayka Vokpnik" "Obannayka Hentras" "Obannayka Vagraskon" "Obannayka Rakhanksoq" "Obannayka Srivnok" "Ozeyma Krazvoyn" "Ozeyma Myrskyya" "Ozeyma Maksprok" "Ozeyma Sannavaas" "Ozeyma Tapsyangok" "Ozeyma Seyzogriv" "Ozeyma Vnikkos" "Ozeyma Trosugon" "Ozeyma Tsayvis" "Ozeyma Ugaznik" "Ozeyma Dorvok" "Ozeyma Vokpnik" "Ozeyma Hentras" "Ozeyma Vagraskon" "Ozeyma Rakhanksoq" "Ozeyma Srivnok" "Odavna Krazvoyn" "Odavna Myrskyya" "Odavna Maksprok" "Odavna Sannavaas" "Odavna Tapsyangok" "Odavna Seyzogriv" "Odavna Vnikkos" "Odavna Trosugon" "Odavna Tsayvis" "Odavna Ugaznik" "Odavna Dorvok" "Odavna Vokpnik" "Odavna Hentras" "Odavna Vagraskon" "Odavna Rakhanksoq" "Odavna Srivnok" "Okasbina Krazvoyn" "Okasbina Myrskyya" "Okasbina Maksprok" "Okasbina Sannavaas" "Okasbina Tapsyangok" "Okasbina Seyzogriv" "Okasbina Vnikkos" "Okasbina Trosugon" "Okasbina Tsayvis" "Okasbina Ugaznik" "Okasbina Dorvok" "Okasbina Vokpnik" "Okasbina Hentras" "Okasbina Vagraskon" "Okasbina Rakhanksoq" "Okasbina Srivnok" "Omakta Krazvoyn" "Omakta Myrskyya" "Omakta Maksprok" "Omakta Sannavaas" "Omakta Tapsyangok" "Omakta Seyzogriv" "Omakta Vnikkos" "Omakta Trosugon" "Omakta Tsayvis" "Omakta Ugaznik" "Omakta Dorvok" "Omakta Vokpnik" "Omakta Hentras" "Omakta Vagraskon" "Omakta Rakhanksoq" "Omakta Srivnok" "Ogava Krazvoyn" "Ogava Myrskyya" "Ogava Maksprok" "Ogava Sannavaas" "Ogava Tapsyangok" "Ogava Seyzogriv" "Ogava Vnikkos" "Ogava Trosugon" "Ogava Tsayvis" "Ogava Ugaznik" "Ogava Dorvok" "Ogava Vokpnik" "Ogava Hentras" "Ogava Vagraskon" "Ogava Rakhanksoq" "Ogava Srivnok" "Ovana Krazvoyn" "Ovana Myrskyya" "Ovana Maksprok" "Ovana Sannavaas" "Ovana Tapsyangok" "Ovana Seyzogriv" "Ovana Vnikkos" "Ovana Trosugon" "Ovana Tsayvis" "Ovana Ugaznik" "Ovana Dorvok" "Ovana Vokpnik" "Ovana Hentras" "Ovana Vagraskon" "Ovana Rakhanksoq" "Ovana Srivnok" "Obarboska Krazvoyn" "Obarboska Myrskyya" "Obarboska Maksprok" "Obarboska Sannavaas" "Obarboska Tapsyangok" "Obarboska Seyzogriv" "Obarboska Vnikkos" "Obarboska Trosugon" "Obarboska Tsayvis" "Obarboska Ugaznik" "Obarboska Dorvok" "Obarboska Vokpnik" "Obarboska Hentras" "Obarboska Vagraskon" "Obarboska Rakhanksoq" "Obarboska Srivnok" "Obraska Krazvoyn" "Obraska Myrskyya" "Obraska Maksprok" "Obraska Sannavaas" "Obraska Tapsyangok" "Obraska Seyzogriv" "Obraska Vnikkos" "Obraska Trosugon" "Obraska Tsayvis" "Obraska Ugaznik" "Obraska Dorvok" "Obraska Vokpnik" "Obraska Hentras" "Obraska Vagraskon" "Obraska Rakhanksoq" "Obraska Srivnok" "Ogarena Krazvoyn" "Ogarena Myrskyya" "Ogarena Maksprok" "Ogarena Sannavaas" "Ogarena Tapsyangok" "Ogarena Seyzogriv" "Ogarena Vnikkos" "Ogarena Trosugon" "Ogarena Tsayvis" "Ogarena Ugaznik" "Ogarena Dorvok" "Ogarena Vokpnik" "Ogarena Hentras" "Ogarena Vagraskon" "Ogarena Rakhanksoq" "Ogarena Srivnok" "Ozandyra Krazvoyn" "Ozandyra Myrskyya" "Ozandyra Maksprok" "Ozandyra Sannavaas" "Ozandyra Tapsyangok" "Ozandyra Seyzogriv" "Ozandyra Vnikkos" "Ozandyra Trosugon" "Ozandyra Tsayvis" "Ozandyra Ugaznik" "Ozandyra Dorvok" "Ozandyra Vokpnik" "Ozandyra Hentras" "Ozandyra Vagraskon" "Ozandyra Rakhanksoq" "Ozandyra Srivnok" "Ovadima Krazvoyn" "Ovadima Myrskyya" "Ovadima Maksprok" "Ovadima Sannavaas" "Ovadima Tapsyangok" "Ovadima Seyzogriv" "Ovadima Vnikkos" "Ovadima Trosugon" "Ovadima Tsayvis" "Ovadima Ugaznik" "Ovadima Dorvok" "Ovadima Vokpnik" "Ovadima Hentras" "Ovadima Vagraskon" "Ovadima Rakhanksoq" "Ovadima Srivnok" "Ovagana Krazvoyn" "Ovagana Myrskyya" "Ovagana Maksprok" "Ovagana Sannavaas" "Ovagana Tapsyangok" "Ovagana Seyzogriv" "Ovagana Vnikkos" "Ovagana Trosugon" "Ovagana Tsayvis" "Ovagana Ugaznik" "Ovagana Dorvok" "Ovagana Vokpnik" "Ovagana Hentras" "Ovagana Vagraskon" "Ovagana Rakhanksoq" "Ovagana Srivnok" "Okadeya Krazvoyn" "Okadeya Myrskyya" "Okadeya Maksprok" "Okadeya Sannavaas" "Okadeya Tapsyangok" "Okadeya Seyzogriv" "Okadeya Vnikkos" "Okadeya Trosugon" "Okadeya Tsayvis" "Okadeya Ugaznik" "Okadeya Dorvok" "Okadeya Vokpnik" "Okadeya Hentras" "Okadeya Vagraskon" "Okadeya Rakhanksoq" "Okadeya Srivnok" "Ozamrava Krazvoyn" "Ozamrava Myrskyya" "Ozamrava Maksprok" "Ozamrava Sannavaas" "Ozamrava Tapsyangok" "Ozamrava Seyzogriv" "Ozamrava Vnikkos" "Ozamrava Trosugon" "Ozamrava Tsayvis" "Ozamrava Ugaznik" "Ozamrava Dorvok" "Ozamrava Vokpnik" "Ozamrava Hentras" "Ozamrava Vagraskon" "Ozamrava Rakhanksoq" "Ozamrava Srivnok" "Osvanza Krazvoyn" "Osvanza Myrskyya" "Osvanza Maksprok" "Osvanza Sannavaas" "Osvanza Tapsyangok" "Osvanza Seyzogriv" "Osvanza Vnikkos" "Osvanza Trosugon" "Osvanza Tsayvis" "Osvanza Ugaznik" "Osvanza Dorvok" "Osvanza Vokpnik" "Osvanza Hentras" "Osvanza Vagraskon" "Osvanza Rakhanksoq" "Osvanza Srivnok" "Omoskura Krazvoyn" "Omoskura Myrskyya" "Omoskura Maksprok" "Omoskura Sannavaas" "Omoskura Tapsyangok" "Omoskura Seyzogriv" "Omoskura Vnikkos" "Omoskura Trosugon" "Omoskura Tsayvis" "Omoskura Ugaznik" "Omoskura Dorvok" "Omoskura Vokpnik" "Omoskura Hentras" "Omoskura Vagraskon" "Omoskura Rakhanksoq" "Omoskura Srivnok" "Ovvatra Krazvoyn" "Ovvatra Myrskyya" "Ovvatra Maksprok" "Ovvatra Sannavaas" "Ovvatra Tapsyangok" "Ovvatra Seyzogriv" "Ovvatra Vnikkos" "Ovvatra Trosugon" "Ovvatra Tsayvis" "Ovvatra Ugaznik" "Ovvatra Dorvok" "Ovvatra Vokpnik" "Ovvatra Hentras" "Ovvatra Vagraskon" "Ovvatra Rakhanksoq" "Ovvatra Srivnok" "Ovaymata Krazvoyn" "Ovaymata Myrskyya" "Ovaymata Maksprok" "Ovaymata Sannavaas" "Ovaymata Tapsyangok" "Ovaymata Seyzogriv" "Ovaymata Vnikkos" "Ovaymata Trosugon" "Ovaymata Tsayvis" "Ovaymata Ugaznik" "Ovaymata Dorvok" "Ovaymata Vokpnik" "Ovaymata Hentras" "Ovaymata Vagraskon" "Ovaymata Rakhanksoq" "Ovaymata Srivnok" "Ovakima Krazvoyn" "Ovakima Myrskyya" "Ovakima Maksprok" "Ovakima Sannavaas" "Ovakima Tapsyangok" "Ovakima Seyzogriv" "Ovakima Vnikkos" "Ovakima Trosugon" "Ovakima Tsayvis" "Ovakima Ugaznik" "Ovakima Dorvok" "Ovakima Vokpnik" "Ovakima Hentras" "Ovakima Vagraskon" "Ovakima Rakhanksoq" "Ovakima Srivnok" "Otassena Krazvoyn" "Otassena Myrskyya" "Otassena Maksprok" "Otassena Sannavaas" "Otassena Tapsyangok" "Otassena Seyzogriv" "Otassena Vnikkos" "Otassena Trosugon" "Otassena Tsayvis" "Otassena Ugaznik" "Otassena Dorvok" "Otassena Vokpnik" "Otassena Hentras" "Otassena Vagraskon" "Otassena Rakhanksoq" "Otassena Srivnok" "Ovenuva Krazvoyn" "Ovenuva Myrskyya" "Ovenuva Maksprok" "Ovenuva Sannavaas" "Ovenuva Tapsyangok" "Ovenuva Seyzogriv" "Ovenuva Vnikkos" "Ovenuva Trosugon" "Ovenuva Tsayvis" "Ovenuva Ugaznik" "Ovenuva Dorvok" "Ovenuva Vokpnik" "Ovenuva Hentras" "Ovenuva Vagraskon" "Ovenuva Rakhanksoq" "Ovenuva Srivnok" "Okartuna Krazvoyn" "Okartuna Myrskyya" "Okartuna Maksprok" "Okartuna Sannavaas" "Okartuna Tapsyangok" "Okartuna Seyzogriv" "Okartuna Vnikkos" "Okartuna Trosugon" "Okartuna Tsayvis" "Okartuna Ugaznik" "Okartuna Dorvok" "Okartuna Vokpnik" "Okartuna Hentras" "Okartuna Vagraskon" "Okartuna Rakhanksoq" "Okartuna Srivnok" "Odavra Krazvoyn" "Odavra Myrskyya" "Odavra Maksprok" "Odavra Sannavaas" "Odavra Tapsyangok" "Odavra Seyzogriv" "Odavra Vnikkos" "Odavra Trosugon" "Odavra Tsayvis" "Odavra Ugaznik" "Odavra Dorvok" "Odavra Vokpnik" "Odavra Hentras" "Odavra Vagraskon" "Odavra Rakhanksoq" "Odavra Srivnok" "Okova Krazvoyn" "Okova Myrskyya" "Okova Maksprok" "Okova Sannavaas" "Okova Tapsyangok" "Okova Seyzogriv" "Okova Vnikkos" "Okova Trosugon" "Okova Tsayvis" "Okova Ugaznik" "Okova Dorvok" "Okova Vokpnik" "Okova Hentras" "Okova Vagraskon" "Okova Rakhanksoq" "Okova Srivnok" "Ovorska Krazvoyn" "Ovorska Myrskyya" "Ovorska Maksprok" "Ovorska Sannavaas" "Ovorska Tapsyangok" "Ovorska Seyzogriv" "Ovorska Vnikkos" "Ovorska Trosugon" "Ovorska Tsayvis" "Ovorska Ugaznik" "Ovorska Dorvok" "Ovorska Vokpnik" "Ovorska Hentras" "Ovorska Vagraskon" "Ovorska Rakhanksoq" "Ovorska Srivnok" "Ovuurava Krazvoyn" "Ovuurava Myrskyya" "Ovuurava Maksprok" "Ovuurava Sannavaas" "Ovuurava Tapsyangok" "Ovuurava Seyzogriv" "Ovuurava Vnikkos" "Ovuurava Trosugon" "Ovuurava Tsayvis" "Ovuurava Ugaznik" "Ovuurava Dorvok" "Ovuurava Vokpnik" "Ovuurava Hentras" "Ovuurava Vagraskon" "Ovuurava Rakhanksoq" "Ovuurava Srivnok" "Omaansa Krazvoyn" "Omaansa Myrskyya" "Omaansa Maksprok" "Omaansa Sannavaas" "Omaansa Tapsyangok" "Omaansa Seyzogriv" "Omaansa Vnikkos" "Omaansa Trosugon" "Omaansa Tsayvis" "Omaansa Ugaznik" "Omaansa Dorvok" "Omaansa Vokpnik" "Omaansa Hentras" "Omaansa Vagraskon" "Omaansa Rakhanksoq" "Omaansa Srivnok" "Obyrka Krazvoyn" "Obyrka Myrskyya" "Obyrka Maksprok" "Obyrka Sannavaas" "Obyrka Tapsyangok" "Obyrka Seyzogriv" "Obyrka Vnikkos" "Obyrka Trosugon" "Obyrka Tsayvis" "Obyrka Ugaznik" "Obyrka Dorvok" "Obyrka Vokpnik" "Obyrka Hentras" "Obyrka Vagraskon" "Obyrka Rakhanksoq" "Obyrka Srivnok"
+				"Oyava Krazvoyn" "Oyava Myrskyya" "Oyava Maksprok" "Oyava Sannavaas"
+				"Oyava Tapsyangok" "Oyava Seyzogriv" "Oyava Vnikkos" "Oyava Trosugon"
+				"Oyava Tsayvis" "Oyava Ugaznik" "Oyava Dorvok" "Oyava Vokpnik" "Oyava Hentras"
+				"Oyava Vagraskon" "Oyava Rakhanksoq" "Oyava Srivnok" "Ovokeya Krazvoyn"
+				"Ovokeya Myrskyya" "Ovokeya Maksprok" "Ovokeya Sannavaas" "Ovokeya Tapsyangok"
+				"Ovokeya Seyzogriv" "Ovokeya Vnikkos" "Ovokeya Trosugon" "Ovokeya Tsayvis"
+				"Ovokeya Ugaznik" "Ovokeya Dorvok" "Ovokeya Vokpnik" "Ovokeya Hentras"
+				"Ovokeya Vagraskon" "Ovokeya Rakhanksoq" "Ovokeya Srivnok" "Ozamvara Krazvoyn"
+				"Ozamvara Myrskyya" "Ozamvara Maksprok" "Ozamvara Sannavaas" "Ozamvara Tapsyangok"
+				"Ozamvara Seyzogriv" "Ozamvara Vnikkos" "Ozamvara Trosugon" "Ozamvara Tsayvis"
+				"Ozamvara Ugaznik" "Ozamvara Dorvok" "Ozamvara Vokpnik" "Ozamvara Hentras"
+				"Ozamvara Vagraskon" "Ozamvara Rakhanksoq" "Ozamvara Srivnok" "Obannayka Krazvoyn"
+				"Obannayka Myrskyya" "Obannayka Maksprok" "Obannayka Sannavaas"
+				"Obannayka Tapsyangok" "Obannayka Seyzogriv" "Obannayka Vnikkos"
+				"Obannayka Trosugon" "Obannayka Tsayvis" "Obannayka Ugaznik" "Obannayka Dorvok"
+				"Obannayka Vokpnik" "Obannayka Hentras" "Obannayka Vagraskon" "Obannayka Rakhanksoq"
+				"Obannayka Srivnok" "Ozeyma Krazvoyn" "Ozeyma Myrskyya" "Ozeyma Maksprok"
+				"Ozeyma Sannavaas" "Ozeyma Tapsyangok" "Ozeyma Seyzogriv" "Ozeyma Vnikkos"
+				"Ozeyma Trosugon" "Ozeyma Tsayvis" "Ozeyma Ugaznik" "Ozeyma Dorvok"
+				"Ozeyma Vokpnik" "Ozeyma Hentras" "Ozeyma Vagraskon" "Ozeyma Rakhanksoq"
+				"Ozeyma Srivnok" "Odavna Krazvoyn" "Odavna Myrskyya" "Odavna Maksprok"
+				"Odavna Sannavaas" "Odavna Tapsyangok" "Odavna Seyzogriv"
+				"Odavna Vnikkos" "Odavna Trosugon" "Odavna Tsayvis" "Odavna Ugaznik"
+				"Odavna Dorvok" "Odavna Vokpnik" "Odavna Hentras" "Odavna Vagraskon"
+				"Odavna Rakhanksoq" "Odavna Srivnok" "Okasbina Krazvoyn" "Okasbina Myrskyya"
+				"Okasbina Maksprok" "Okasbina Sannavaas" "Okasbina Tapsyangok"
+				"Okasbina Seyzogriv" "Okasbina Vnikkos" "Okasbina Trosugon" "Okasbina Tsayvis"
+				"Okasbina Ugaznik" "Okasbina Dorvok" "Okasbina Vokpnik" "Okasbina Hentras"
+				"Okasbina Vagraskon" "Okasbina Rakhanksoq" "Okasbina Srivnok" "Omakta Krazvoyn"
+				"Omakta Myrskyya" "Omakta Maksprok" "Omakta Sannavaas" "Omakta Tapsyangok"
+				"Omakta Seyzogriv" "Omakta Vnikkos" "Omakta Trosugon" "Omakta Tsayvis"
+				"Omakta Ugaznik" "Omakta Dorvok" "Omakta Vokpnik" "Omakta Hentras"
+				"Omakta Vagraskon" "Omakta Rakhanksoq" "Omakta Srivnok" "Ogava Krazvoyn"
+				"Ogava Myrskyya" "Ogava Maksprok" "Ogava Sannavaas" "Ogava Tapsyangok"
+				"Ogava Seyzogriv" "Ogava Vnikkos" "Ogava Trosugon" "Ogava Tsayvis" "Ogava Ugaznik"
+				"Ogava Dorvok" "Ogava Vokpnik" "Ogava Hentras" "Ogava Vagraskon" "Ogava Rakhanksoq"
+				"Ogava Srivnok" "Ovana Krazvoyn" "Ovana Myrskyya" "Ovana Maksprok" "Ovana Sannavaas"
+				"Ovana Tapsyangok" "Ovana Seyzogriv" "Ovana Vnikkos" "Ovana Trosugon"
+				"Ovana Tsayvis" "Ovana Ugaznik" "Ovana Dorvok" "Ovana Vokpnik" "Ovana Hentras"
+				"Ovana Vagraskon" "Ovana Rakhanksoq" "Ovana Srivnok" "Obarboska Krazvoyn"
+				"Obarboska Myrskyya" "Obarboska Maksprok" "Obarboska Sannavaas"
+				"Obarboska Tapsyangok" "Obarboska Seyzogriv" "Obarboska Vnikkos"
+				"Obarboska Trosugon" "Obarboska Tsayvis" "Obarboska Ugaznik" "Obarboska Dorvok"
+				"Obarboska Vokpnik" "Obarboska Hentras" "Obarboska Vagraskon" "Obarboska Rakhanksoq"
+				"Obarboska Srivnok" "Obraska Krazvoyn" "Obraska Myrskyya" "Obraska Maksprok"
+				"Obraska Sannavaas" "Obraska Tapsyangok" "Obraska Seyzogriv" "Obraska Vnikkos"
+				"Obraska Trosugon" "Obraska Tsayvis" "Obraska Ugaznik" "Obraska Dorvok"
+				"Obraska Vokpnik" "Obraska Hentras" "Obraska Vagraskon" "Obraska Rakhanksoq"
+				"Obraska Srivnok" "Ogarena Krazvoyn" "Ogarena Myrskyya" "Ogarena Maksprok"
+				"Ogarena Sannavaas" "Ogarena Tapsyangok" "Ogarena Seyzogriv" "Ogarena Vnikkos"
+				"Ogarena Trosugon" "Ogarena Tsayvis" "Ogarena Ugaznik" "Ogarena Dorvok"
+				"Ogarena Vokpnik" "Ogarena Hentras" "Ogarena Vagraskon" "Ogarena Rakhanksoq"
+				"Ogarena Srivnok" "Ozandyra Krazvoyn" "Ozandyra Myrskyya" "Ozandyra Maksprok"
+				"Ozandyra Sannavaas" "Ozandyra Tapsyangok" "Ozandyra Seyzogriv" "Ozandyra Vnikkos"
+				"Ozandyra Trosugon" "Ozandyra Tsayvis" "Ozandyra Ugaznik" "Ozandyra Dorvok"
+				"Ozandyra Vokpnik" "Ozandyra Hentras" "Ozandyra Vagraskon" "Ozandyra Rakhanksoq"
+				"Ozandyra Srivnok" "Ovadima Krazvoyn" "Ovadima Myrskyya" "Ovadima Maksprok"
+				"Ovadima Sannavaas" "Ovadima Tapsyangok" "Ovadima Seyzogriv" "Ovadima Vnikkos"
+				"Ovadima Trosugon" "Ovadima Tsayvis" "Ovadima Ugaznik" "Ovadima Dorvok"
+				"Ovadima Vokpnik" "Ovadima Hentras" "Ovadima Vagraskon" "Ovadima Rakhanksoq"
+				"Ovadima Srivnok" "Ovagana Krazvoyn" "Ovagana Myrskyya" "Ovagana Maksprok"
+				"Ovagana Sannavaas" "Ovagana Tapsyangok" "Ovagana Seyzogriv" "Ovagana Vnikkos"
+				"Ovagana Trosugon" "Ovagana Tsayvis" "Ovagana Ugaznik" "Ovagana Dorvok"
+				"Ovagana Vokpnik" "Ovagana Hentras" "Ovagana Vagraskon" "Ovagana Rakhanksoq"
+				"Ovagana Srivnok" "Okadeya Krazvoyn" "Okadeya Myrskyya" "Okadeya Maksprok"
+				"Okadeya Sannavaas" "Okadeya Tapsyangok" "Okadeya Seyzogriv" "Okadeya Vnikkos"
+				"Okadeya Trosugon" "Okadeya Tsayvis" "Okadeya Ugaznik" "Okadeya Dorvok"
+				"Okadeya Vokpnik" "Okadeya Hentras" "Okadeya Vagraskon" "Okadeya Rakhanksoq"
+				"Okadeya Srivnok" "Ozamrava Krazvoyn" "Ozamrava Myrskyya" "Ozamrava Maksprok"
+				"Ozamrava Sannavaas" "Ozamrava Tapsyangok" "Ozamrava Seyzogriv" "Ozamrava Vnikkos"
+				"Ozamrava Trosugon" "Ozamrava Tsayvis" "Ozamrava Ugaznik" "Ozamrava Dorvok"
+				"Ozamrava Vokpnik" "Ozamrava Hentras" "Ozamrava Vagraskon" "Ozamrava Rakhanksoq"
+				"Ozamrava Srivnok" "Osvanza Krazvoyn" "Osvanza Myrskyya" "Osvanza Maksprok"
+				"Osvanza Sannavaas" "Osvanza Tapsyangok" "Osvanza Seyzogriv" "Osvanza Vnikkos"
+				"Osvanza Trosugon" "Osvanza Tsayvis" "Osvanza Ugaznik" "Osvanza Dorvok"
+				"Osvanza Vokpnik" "Osvanza Hentras" "Osvanza Vagraskon" "Osvanza Rakhanksoq"
+				"Osvanza Srivnok" "Omoskura Krazvoyn" "Omoskura Myrskyya" "Omoskura Maksprok"
+				"Omoskura Sannavaas" "Omoskura Tapsyangok" "Omoskura Seyzogriv" "Omoskura Vnikkos"
+				"Omoskura Trosugon" "Omoskura Tsayvis" "Omoskura Ugaznik" "Omoskura Dorvok"
+				"Omoskura Vokpnik" "Omoskura Hentras" "Omoskura Vagraskon" "Omoskura Rakhanksoq"
+				"Omoskura Srivnok" "Ovvatra Krazvoyn" "Ovvatra Myrskyya" "Ovvatra Maksprok"
+				"Ovvatra Sannavaas" "Ovvatra Tapsyangok" "Ovvatra Seyzogriv" "Ovvatra Vnikkos"
+				"Ovvatra Trosugon" "Ovvatra Tsayvis" "Ovvatra Ugaznik" "Ovvatra Dorvok"
+				"Ovvatra Vokpnik" "Ovvatra Hentras" "Ovvatra Vagraskon" "Ovvatra Rakhanksoq"
+				"Ovvatra Srivnok" "Ovaymata Krazvoyn" "Ovaymata Myrskyya" "Ovaymata Maksprok"
+				"Ovaymata Sannavaas" "Ovaymata Tapsyangok" "Ovaymata Seyzogriv" "Ovaymata Vnikkos"
+				"Ovaymata Trosugon" "Ovaymata Tsayvis" "Ovaymata Ugaznik" "Ovaymata Dorvok"
+				"Ovaymata Vokpnik" "Ovaymata Hentras" "Ovaymata Vagraskon" "Ovaymata Rakhanksoq"
+				"Ovaymata Srivnok" "Ovakima Krazvoyn" "Ovakima Myrskyya" "Ovakima Maksprok"
+				"Ovakima Sannavaas" "Ovakima Tapsyangok" "Ovakima Seyzogriv" "Ovakima Vnikkos"
+				"Ovakima Trosugon" "Ovakima Tsayvis" "Ovakima Ugaznik" "Ovakima Dorvok"
+				"Ovakima Vokpnik" "Ovakima Hentras" "Ovakima Vagraskon" "Ovakima Rakhanksoq"
+				"Ovakima Srivnok" "Otassena Krazvoyn" "Otassena Myrskyya" "Otassena Maksprok"
+				"Otassena Sannavaas" "Otassena Tapsyangok" "Otassena Seyzogriv" "Otassena Vnikkos"
+				"Otassena Trosugon" "Otassena Tsayvis" "Otassena Ugaznik" "Otassena Dorvok"
+				"Otassena Vokpnik" "Otassena Hentras" "Otassena Vagraskon" "Otassena Rakhanksoq"
+				"Otassena Srivnok" "Ovenuva Krazvoyn" "Ovenuva Myrskyya" "Ovenuva Maksprok"
+				"Ovenuva Sannavaas" "Ovenuva Tapsyangok" "Ovenuva Seyzogriv" "Ovenuva Vnikkos"
+				"Ovenuva Trosugon" "Ovenuva Tsayvis" "Ovenuva Ugaznik" "Ovenuva Dorvok"
+				"Ovenuva Vokpnik" "Ovenuva Hentras" "Ovenuva Vagraskon" "Ovenuva Rakhanksoq"
+				"Ovenuva Srivnok" "Okartuna Krazvoyn" "Okartuna Myrskyya" "Okartuna Maksprok"
+				"Okartuna Sannavaas" "Okartuna Tapsyangok" "Okartuna Seyzogriv" "Okartuna Vnikkos"
+				"Okartuna Trosugon" "Okartuna Tsayvis" "Okartuna Ugaznik" "Okartuna Dorvok"
+				"Okartuna Vokpnik" "Okartuna Hentras" "Okartuna Vagraskon" "Okartuna Rakhanksoq"
+				"Okartuna Srivnok" "Odavra Krazvoyn" "Odavra Myrskyya" "Odavra Maksprok"
+				"Odavra Sannavaas" "Odavra Tapsyangok" "Odavra Seyzogriv" "Odavra Vnikkos"
+				"Odavra Trosugon" "Odavra Tsayvis" "Odavra Ugaznik" "Odavra Dorvok" "Odavra Vokpnik"
+				"Odavra Hentras" "Odavra Vagraskon" "Odavra Rakhanksoq" "Odavra Srivnok"
+				"Okova Krazvoyn" "Okova Myrskyya" "Okova Maksprok" "Okova Sannavaas"
+				"Okova Tapsyangok" "Okova Seyzogriv" "Okova Vnikkos" "Okova Trosugon"
+				"Okova Tsayvis" "Okova Ugaznik" "Okova Dorvok" "Okova Vokpnik" "Okova Hentras"
+				"Okova Vagraskon" "Okova Rakhanksoq" "Okova Srivnok" "Ovorska Krazvoyn"
+				"Ovorska Myrskyya" "Ovorska Maksprok" "Ovorska Sannavaas" "Ovorska Tapsyangok"
+				"Ovorska Seyzogriv" "Ovorska Vnikkos" "Ovorska Trosugon" "Ovorska Tsayvis"
+				"Ovorska Ugaznik" "Ovorska Dorvok" "Ovorska Vokpnik" "Ovorska Hentras"
+				"Ovorska Vagraskon" "Ovorska Rakhanksoq" "Ovorska Srivnok" "Ovuurava Krazvoyn"
+				"Ovuurava Myrskyya" "Ovuurava Maksprok" "Ovuurava Sannavaas" "Ovuurava Tapsyangok"
+				"Ovuurava Seyzogriv" "Ovuurava Vnikkos" "Ovuurava Trosugon" "Ovuurava Tsayvis"
+				"Ovuurava Ugaznik" "Ovuurava Dorvok" "Ovuurava Vokpnik" "Ovuurava Hentras"
+				"Ovuurava Vagraskon" "Ovuurava Rakhanksoq" "Ovuurava Srivnok" "Omaansa Krazvoyn"
+				"Omaansa Myrskyya" "Omaansa Maksprok" "Omaansa Sannavaas" "Omaansa Tapsyangok"
+				"Omaansa Seyzogriv" "Omaansa Vnikkos" "Omaansa Trosugon" "Omaansa Tsayvis"
+				"Omaansa Ugaznik" "Omaansa Dorvok" "Omaansa Vokpnik" "Omaansa Hentras"
+				"Omaansa Vagraskon" "Omaansa Rakhanksoq" "Omaansa Srivnok" "Obyrka Krazvoyn"
+				"Obyrka Myrskyya" "Obyrka Maksprok" "Obyrka Sannavaas" "Obyrka Tapsyangok"
+				"Obyrka Seyzogriv" "Obyrka Vnikkos" "Obyrka Trosugon" "Obyrka Tsayvis"
+				"Obyrka Ugaznik" "Obyrka Dorvok" "Obyrka Vokpnik" "Obyrka Hentras"
+				"Obyrka Vagraskon" "Obyrka Rakhanksoq" "Obyrka Srivnok"
 			}
 			
 			regnal_first_names = {
-				Yav Oke Samvar Bannayk Seym Davn Kasbin Makt Gav Van Barbosk Brask Garen Sandyr Vadim Hagan Kadey Samr Svans Moskur Hvatr Aymat Akim Tassen Enu Kartun Davr Kov Orsk Uura Maans Byrk Say Radi Demi Esta Izan Aayun Eyzin Tayyin Vossin Svit Navans Sybet Irii Taym Arins Seyent Avrink Hazen Svena Vamar Tyorrey Sverde Masse Midor Yuzmet Nikkam Karev Ksemna Ivis Rydan Merzyar Kanzmat
+				Yav Oke Samvar Bannayk Seym Davn Kasbin Makt Gav Van Barbosk Brask Garen Sandyr
+				Vadim Hagan Kadey Samar Svans Moskur Hvatr Aymat Akim Tassen Enu Kartun Davr Kov
+				Orsk Uura Maans Byrk Say Radi Demi Esta Izan Aayun Eyzin Tayyin Vossin Svit Navans
+				Sybet Irii Taym Arins Seyent Avrink Hazen Svena Vamar Tyorrey Sverde Masse Midor
+				Yuzmet Nikkam Karev Ksemna Ivis Rydan Merzyar Kanzmat
 			}
 			
 			regnal_second_names = {
-				"Oyava Krazvoyn" "Oyava Myrskyya" "Oyava Maksprok" "Oyava Sannavaas" "Oyava Tapsyangok" "Oyava Seyzogriv" "Oyava Vnikkos" "Oyava Trosugon" "Oyava Tsayvis" "Oyava Ugaznik" "Oyava Dorvok" "Oyava Vokpnik" "Oyava Hentras" "Oyava Vagraskon" "Oyava Rakhanksoq" "Oyava Srivnok" "Ovokeya Krazvoyn" "Ovokeya Myrskyya" "Ovokeya Maksprok" "Ovokeya Sannavaas" "Ovokeya Tapsyangok" "Ovokeya Seyzogriv" "Ovokeya Vnikkos" "Ovokeya Trosugon" "Ovokeya Tsayvis" "Ovokeya Ugaznik" "Ovokeya Dorvok" "Ovokeya Vokpnik" "Ovokeya Hentras" "Ovokeya Vagraskon" "Ovokeya Rakhanksoq" "Ovokeya Srivnok" "Ozamvara Krazvoyn" "Ozamvara Myrskyya" "Ozamvara Maksprok" "Ozamvara Sannavaas" "Ozamvara Tapsyangok" "Ozamvara Seyzogriv" "Ozamvara Vnikkos" "Ozamvara Trosugon" "Ozamvara Tsayvis" "Ozamvara Ugaznik" "Ozamvara Dorvok" "Ozamvara Vokpnik" "Ozamvara Hentras" "Ozamvara Vagraskon" "Ozamvara Rakhanksoq" "Ozamvara Srivnok" "Obannayka Krazvoyn" "Obannayka Myrskyya" "Obannayka Maksprok" "Obannayka Sannavaas" "Obannayka Tapsyangok" "Obannayka Seyzogriv" "Obannayka Vnikkos" "Obannayka Trosugon" "Obannayka Tsayvis" "Obannayka Ugaznik" "Obannayka Dorvok" "Obannayka Vokpnik" "Obannayka Hentras" "Obannayka Vagraskon" "Obannayka Rakhanksoq" "Obannayka Srivnok" "Ozeyma Krazvoyn" "Ozeyma Myrskyya" "Ozeyma Maksprok" "Ozeyma Sannavaas" "Ozeyma Tapsyangok" "Ozeyma Seyzogriv" "Ozeyma Vnikkos" "Ozeyma Trosugon" "Ozeyma Tsayvis" "Ozeyma Ugaznik" "Ozeyma Dorvok" "Ozeyma Vokpnik" "Ozeyma Hentras" "Ozeyma Vagraskon" "Ozeyma Rakhanksoq" "Ozeyma Srivnok" "Odavna Krazvoyn" "Odavna Myrskyya" "Odavna Maksprok" "Odavna Sannavaas" "Odavna Tapsyangok" "Odavna Seyzogriv" "Odavna Vnikkos" "Odavna Trosugon" "Odavna Tsayvis" "Odavna Ugaznik" "Odavna Dorvok" "Odavna Vokpnik" "Odavna Hentras" "Odavna Vagraskon" "Odavna Rakhanksoq" "Odavna Srivnok" "Okasbina Krazvoyn" "Okasbina Myrskyya" "Okasbina Maksprok" "Okasbina Sannavaas" "Okasbina Tapsyangok" "Okasbina Seyzogriv" "Okasbina Vnikkos" "Okasbina Trosugon" "Okasbina Tsayvis" "Okasbina Ugaznik" "Okasbina Dorvok" "Okasbina Vokpnik" "Okasbina Hentras" "Okasbina Vagraskon" "Okasbina Rakhanksoq" "Okasbina Srivnok" "Omakta Krazvoyn" "Omakta Myrskyya" "Omakta Maksprok" "Omakta Sannavaas" "Omakta Tapsyangok" "Omakta Seyzogriv" "Omakta Vnikkos" "Omakta Trosugon" "Omakta Tsayvis" "Omakta Ugaznik" "Omakta Dorvok" "Omakta Vokpnik" "Omakta Hentras" "Omakta Vagraskon" "Omakta Rakhanksoq" "Omakta Srivnok" "Ogava Krazvoyn" "Ogava Myrskyya" "Ogava Maksprok" "Ogava Sannavaas" "Ogava Tapsyangok" "Ogava Seyzogriv" "Ogava Vnikkos" "Ogava Trosugon" "Ogava Tsayvis" "Ogava Ugaznik" "Ogava Dorvok" "Ogava Vokpnik" "Ogava Hentras" "Ogava Vagraskon" "Ogava Rakhanksoq" "Ogava Srivnok" "Ovana Krazvoyn" "Ovana Myrskyya" "Ovana Maksprok" "Ovana Sannavaas" "Ovana Tapsyangok" "Ovana Seyzogriv" "Ovana Vnikkos" "Ovana Trosugon" "Ovana Tsayvis" "Ovana Ugaznik" "Ovana Dorvok" "Ovana Vokpnik" "Ovana Hentras" "Ovana Vagraskon" "Ovana Rakhanksoq" "Ovana Srivnok" "Obarboska Krazvoyn" "Obarboska Myrskyya" "Obarboska Maksprok" "Obarboska Sannavaas" "Obarboska Tapsyangok" "Obarboska Seyzogriv" "Obarboska Vnikkos" "Obarboska Trosugon" "Obarboska Tsayvis" "Obarboska Ugaznik" "Obarboska Dorvok" "Obarboska Vokpnik" "Obarboska Hentras" "Obarboska Vagraskon" "Obarboska Rakhanksoq" "Obarboska Srivnok" "Obraska Krazvoyn" "Obraska Myrskyya" "Obraska Maksprok" "Obraska Sannavaas" "Obraska Tapsyangok" "Obraska Seyzogriv" "Obraska Vnikkos" "Obraska Trosugon" "Obraska Tsayvis" "Obraska Ugaznik" "Obraska Dorvok" "Obraska Vokpnik" "Obraska Hentras" "Obraska Vagraskon" "Obraska Rakhanksoq" "Obraska Srivnok" "Ogarena Krazvoyn" "Ogarena Myrskyya" "Ogarena Maksprok" "Ogarena Sannavaas" "Ogarena Tapsyangok" "Ogarena Seyzogriv" "Ogarena Vnikkos" "Ogarena Trosugon" "Ogarena Tsayvis" "Ogarena Ugaznik" "Ogarena Dorvok" "Ogarena Vokpnik" "Ogarena Hentras" "Ogarena Vagraskon" "Ogarena Rakhanksoq" "Ogarena Srivnok" "Ozandyra Krazvoyn" "Ozandyra Myrskyya" "Ozandyra Maksprok" "Ozandyra Sannavaas" "Ozandyra Tapsyangok" "Ozandyra Seyzogriv" "Ozandyra Vnikkos" "Ozandyra Trosugon" "Ozandyra Tsayvis" "Ozandyra Ugaznik" "Ozandyra Dorvok" "Ozandyra Vokpnik" "Ozandyra Hentras" "Ozandyra Vagraskon" "Ozandyra Rakhanksoq" "Ozandyra Srivnok" "Ovadima Krazvoyn" "Ovadima Myrskyya" "Ovadima Maksprok" "Ovadima Sannavaas" "Ovadima Tapsyangok" "Ovadima Seyzogriv" "Ovadima Vnikkos" "Ovadima Trosugon" "Ovadima Tsayvis" "Ovadima Ugaznik" "Ovadima Dorvok" "Ovadima Vokpnik" "Ovadima Hentras" "Ovadima Vagraskon" "Ovadima Rakhanksoq" "Ovadima Srivnok" "Ovagana Krazvoyn" "Ovagana Myrskyya" "Ovagana Maksprok" "Ovagana Sannavaas" "Ovagana Tapsyangok" "Ovagana Seyzogriv" "Ovagana Vnikkos" "Ovagana Trosugon" "Ovagana Tsayvis" "Ovagana Ugaznik" "Ovagana Dorvok" "Ovagana Vokpnik" "Ovagana Hentras" "Ovagana Vagraskon" "Ovagana Rakhanksoq" "Ovagana Srivnok" "Okadeya Krazvoyn" "Okadeya Myrskyya" "Okadeya Maksprok" "Okadeya Sannavaas" "Okadeya Tapsyangok" "Okadeya Seyzogriv" "Okadeya Vnikkos" "Okadeya Trosugon" "Okadeya Tsayvis" "Okadeya Ugaznik" "Okadeya Dorvok" "Okadeya Vokpnik" "Okadeya Hentras" "Okadeya Vagraskon" "Okadeya Rakhanksoq" "Okadeya Srivnok" "Ozamrava Krazvoyn" "Ozamrava Myrskyya" "Ozamrava Maksprok" "Ozamrava Sannavaas" "Ozamrava Tapsyangok" "Ozamrava Seyzogriv" "Ozamrava Vnikkos" "Ozamrava Trosugon" "Ozamrava Tsayvis" "Ozamrava Ugaznik" "Ozamrava Dorvok" "Ozamrava Vokpnik" "Ozamrava Hentras" "Ozamrava Vagraskon" "Ozamrava Rakhanksoq" "Ozamrava Srivnok" "Osvanza Krazvoyn" "Osvanza Myrskyya" "Osvanza Maksprok" "Osvanza Sannavaas" "Osvanza Tapsyangok" "Osvanza Seyzogriv" "Osvanza Vnikkos" "Osvanza Trosugon" "Osvanza Tsayvis" "Osvanza Ugaznik" "Osvanza Dorvok" "Osvanza Vokpnik" "Osvanza Hentras" "Osvanza Vagraskon" "Osvanza Rakhanksoq" "Osvanza Srivnok" "Omoskura Krazvoyn" "Omoskura Myrskyya" "Omoskura Maksprok" "Omoskura Sannavaas" "Omoskura Tapsyangok" "Omoskura Seyzogriv" "Omoskura Vnikkos" "Omoskura Trosugon" "Omoskura Tsayvis" "Omoskura Ugaznik" "Omoskura Dorvok" "Omoskura Vokpnik" "Omoskura Hentras" "Omoskura Vagraskon" "Omoskura Rakhanksoq" "Omoskura Srivnok" "Ovvatra Krazvoyn" "Ovvatra Myrskyya" "Ovvatra Maksprok" "Ovvatra Sannavaas" "Ovvatra Tapsyangok" "Ovvatra Seyzogriv" "Ovvatra Vnikkos" "Ovvatra Trosugon" "Ovvatra Tsayvis" "Ovvatra Ugaznik" "Ovvatra Dorvok" "Ovvatra Vokpnik" "Ovvatra Hentras" "Ovvatra Vagraskon" "Ovvatra Rakhanksoq" "Ovvatra Srivnok" "Ovaymata Krazvoyn" "Ovaymata Myrskyya" "Ovaymata Maksprok" "Ovaymata Sannavaas" "Ovaymata Tapsyangok" "Ovaymata Seyzogriv" "Ovaymata Vnikkos" "Ovaymata Trosugon" "Ovaymata Tsayvis" "Ovaymata Ugaznik" "Ovaymata Dorvok" "Ovaymata Vokpnik" "Ovaymata Hentras" "Ovaymata Vagraskon" "Ovaymata Rakhanksoq" "Ovaymata Srivnok" "Ovakima Krazvoyn" "Ovakima Myrskyya" "Ovakima Maksprok" "Ovakima Sannavaas" "Ovakima Tapsyangok" "Ovakima Seyzogriv" "Ovakima Vnikkos" "Ovakima Trosugon" "Ovakima Tsayvis" "Ovakima Ugaznik" "Ovakima Dorvok" "Ovakima Vokpnik" "Ovakima Hentras" "Ovakima Vagraskon" "Ovakima Rakhanksoq" "Ovakima Srivnok" "Otassena Krazvoyn" "Otassena Myrskyya" "Otassena Maksprok" "Otassena Sannavaas" "Otassena Tapsyangok" "Otassena Seyzogriv" "Otassena Vnikkos" "Otassena Trosugon" "Otassena Tsayvis" "Otassena Ugaznik" "Otassena Dorvok" "Otassena Vokpnik" "Otassena Hentras" "Otassena Vagraskon" "Otassena Rakhanksoq" "Otassena Srivnok" "Ovenuva Krazvoyn" "Ovenuva Myrskyya" "Ovenuva Maksprok" "Ovenuva Sannavaas" "Ovenuva Tapsyangok" "Ovenuva Seyzogriv" "Ovenuva Vnikkos" "Ovenuva Trosugon" "Ovenuva Tsayvis" "Ovenuva Ugaznik" "Ovenuva Dorvok" "Ovenuva Vokpnik" "Ovenuva Hentras" "Ovenuva Vagraskon" "Ovenuva Rakhanksoq" "Ovenuva Srivnok" "Okartuna Krazvoyn" "Okartuna Myrskyya" "Okartuna Maksprok" "Okartuna Sannavaas" "Okartuna Tapsyangok" "Okartuna Seyzogriv" "Okartuna Vnikkos" "Okartuna Trosugon" "Okartuna Tsayvis" "Okartuna Ugaznik" "Okartuna Dorvok" "Okartuna Vokpnik" "Okartuna Hentras" "Okartuna Vagraskon" "Okartuna Rakhanksoq" "Okartuna Srivnok" "Odavra Krazvoyn" "Odavra Myrskyya" "Odavra Maksprok" "Odavra Sannavaas" "Odavra Tapsyangok" "Odavra Seyzogriv" "Odavra Vnikkos" "Odavra Trosugon" "Odavra Tsayvis" "Odavra Ugaznik" "Odavra Dorvok" "Odavra Vokpnik" "Odavra Hentras" "Odavra Vagraskon" "Odavra Rakhanksoq" "Odavra Srivnok" "Okova Krazvoyn" "Okova Myrskyya" "Okova Maksprok" "Okova Sannavaas" "Okova Tapsyangok" "Okova Seyzogriv" "Okova Vnikkos" "Okova Trosugon" "Okova Tsayvis" "Okova Ugaznik" "Okova Dorvok" "Okova Vokpnik" "Okova Hentras" "Okova Vagraskon" "Okova Rakhanksoq" "Okova Srivnok" "Ovorska Krazvoyn" "Ovorska Myrskyya" "Ovorska Maksprok" "Ovorska Sannavaas" "Ovorska Tapsyangok" "Ovorska Seyzogriv" "Ovorska Vnikkos" "Ovorska Trosugon" "Ovorska Tsayvis" "Ovorska Ugaznik" "Ovorska Dorvok" "Ovorska Vokpnik" "Ovorska Hentras" "Ovorska Vagraskon" "Ovorska Rakhanksoq" "Ovorska Srivnok" "Ovuurava Krazvoyn" "Ovuurava Myrskyya" "Ovuurava Maksprok" "Ovuurava Sannavaas" "Ovuurava Tapsyangok" "Ovuurava Seyzogriv" "Ovuurava Vnikkos" "Ovuurava Trosugon" "Ovuurava Tsayvis" "Ovuurava Ugaznik" "Ovuurava Dorvok" "Ovuurava Vokpnik" "Ovuurava Hentras" "Ovuurava Vagraskon" "Ovuurava Rakhanksoq" "Ovuurava Srivnok" "Omaansa Krazvoyn" "Omaansa Myrskyya" "Omaansa Maksprok" "Omaansa Sannavaas" "Omaansa Tapsyangok" "Omaansa Seyzogriv" "Omaansa Vnikkos" "Omaansa Trosugon" "Omaansa Tsayvis" "Omaansa Ugaznik" "Omaansa Dorvok" "Omaansa Vokpnik" "Omaansa Hentras" "Omaansa Vagraskon" "Omaansa Rakhanksoq" "Omaansa Srivnok" "Obyrka Krazvoyn" "Obyrka Myrskyya" "Obyrka Maksprok" "Obyrka Sannavaas" "Obyrka Tapsyangok" "Obyrka Seyzogriv" "Obyrka Vnikkos" "Obyrka Trosugon" "Obyrka Tsayvis" "Obyrka Ugaznik" "Obyrka Dorvok" "Obyrka Vokpnik" "Obyrka Hentras" "Obyrka Vagraskon" "Obyrka Rakhanksoq" "Obyrka Srivnok"
+				"Oyava Krazvoyn" "Oyava Myrskyya" "Oyava Maksprok" "Oyava Sannavaas"
+				"Oyava Tapsyangok" "Oyava Seyzogriv" "Oyava Vnikkos" "Oyava Trosugon"
+				"Oyava Tsayvis" "Oyava Ugaznik" "Oyava Dorvok" "Oyava Vokpnik" "Oyava Hentras"
+				"Oyava Vagraskon" "Oyava Rakhanksoq" "Oyava Srivnok" "Ovokeya Krazvoyn"
+				"Ovokeya Myrskyya" "Ovokeya Maksprok" "Ovokeya Sannavaas" "Ovokeya Tapsyangok"
+				"Ovokeya Seyzogriv" "Ovokeya Vnikkos" "Ovokeya Trosugon" "Ovokeya Tsayvis"
+				"Ovokeya Ugaznik" "Ovokeya Dorvok" "Ovokeya Vokpnik" "Ovokeya Hentras"
+				"Ovokeya Vagraskon" "Ovokeya Rakhanksoq" "Ovokeya Srivnok" "Ozamvara Krazvoyn"
+				"Ozamvara Myrskyya" "Ozamvara Maksprok" "Ozamvara Sannavaas" "Ozamvara Tapsyangok"
+				"Ozamvara Seyzogriv" "Ozamvara Vnikkos" "Ozamvara Trosugon" "Ozamvara Tsayvis"
+				"Ozamvara Ugaznik" "Ozamvara Dorvok" "Ozamvara Vokpnik" "Ozamvara Hentras"
+				"Ozamvara Vagraskon" "Ozamvara Rakhanksoq" "Ozamvara Srivnok" "Obannayka Krazvoyn"
+				"Obannayka Myrskyya" "Obannayka Maksprok" "Obannayka Sannavaas"
+				"Obannayka Tapsyangok" "Obannayka Seyzogriv" "Obannayka Vnikkos"
+				"Obannayka Trosugon" "Obannayka Tsayvis" "Obannayka Ugaznik" "Obannayka Dorvok"
+				"Obannayka Vokpnik" "Obannayka Hentras" "Obannayka Vagraskon" "Obannayka Rakhanksoq"
+				"Obannayka Srivnok" "Ozeyma Krazvoyn" "Ozeyma Myrskyya" "Ozeyma Maksprok"
+				"Ozeyma Sannavaas" "Ozeyma Tapsyangok" "Ozeyma Seyzogriv" "Ozeyma Vnikkos"
+				"Ozeyma Trosugon" "Ozeyma Tsayvis" "Ozeyma Ugaznik" "Ozeyma Dorvok"
+				"Ozeyma Vokpnik" "Ozeyma Hentras" "Ozeyma Vagraskon" "Ozeyma Rakhanksoq"
+				"Ozeyma Srivnok" "Odavna Krazvoyn" "Odavna Myrskyya" "Odavna Maksprok"
+				"Odavna Sannavaas" "Odavna Tapsyangok" "Odavna Seyzogriv"
+				"Odavna Vnikkos" "Odavna Trosugon" "Odavna Tsayvis" "Odavna Ugaznik"
+				"Odavna Dorvok" "Odavna Vokpnik" "Odavna Hentras" "Odavna Vagraskon"
+				"Odavna Rakhanksoq" "Odavna Srivnok" "Okasbina Krazvoyn" "Okasbina Myrskyya"
+				"Okasbina Maksprok" "Okasbina Sannavaas" "Okasbina Tapsyangok"
+				"Okasbina Seyzogriv" "Okasbina Vnikkos" "Okasbina Trosugon" "Okasbina Tsayvis"
+				"Okasbina Ugaznik" "Okasbina Dorvok" "Okasbina Vokpnik" "Okasbina Hentras"
+				"Okasbina Vagraskon" "Okasbina Rakhanksoq" "Okasbina Srivnok" "Omakta Krazvoyn"
+				"Omakta Myrskyya" "Omakta Maksprok" "Omakta Sannavaas" "Omakta Tapsyangok"
+				"Omakta Seyzogriv" "Omakta Vnikkos" "Omakta Trosugon" "Omakta Tsayvis"
+				"Omakta Ugaznik" "Omakta Dorvok" "Omakta Vokpnik" "Omakta Hentras"
+				"Omakta Vagraskon" "Omakta Rakhanksoq" "Omakta Srivnok" "Ogava Krazvoyn"
+				"Ogava Myrskyya" "Ogava Maksprok" "Ogava Sannavaas" "Ogava Tapsyangok"
+				"Ogava Seyzogriv" "Ogava Vnikkos" "Ogava Trosugon" "Ogava Tsayvis" "Ogava Ugaznik"
+				"Ogava Dorvok" "Ogava Vokpnik" "Ogava Hentras" "Ogava Vagraskon" "Ogava Rakhanksoq"
+				"Ogava Srivnok" "Ovana Krazvoyn" "Ovana Myrskyya" "Ovana Maksprok" "Ovana Sannavaas"
+				"Ovana Tapsyangok" "Ovana Seyzogriv" "Ovana Vnikkos" "Ovana Trosugon"
+				"Ovana Tsayvis" "Ovana Ugaznik" "Ovana Dorvok" "Ovana Vokpnik" "Ovana Hentras"
+				"Ovana Vagraskon" "Ovana Rakhanksoq" "Ovana Srivnok" "Obarboska Krazvoyn"
+				"Obarboska Myrskyya" "Obarboska Maksprok" "Obarboska Sannavaas"
+				"Obarboska Tapsyangok" "Obarboska Seyzogriv" "Obarboska Vnikkos"
+				"Obarboska Trosugon" "Obarboska Tsayvis" "Obarboska Ugaznik" "Obarboska Dorvok"
+				"Obarboska Vokpnik" "Obarboska Hentras" "Obarboska Vagraskon" "Obarboska Rakhanksoq"
+				"Obarboska Srivnok" "Obraska Krazvoyn" "Obraska Myrskyya" "Obraska Maksprok"
+				"Obraska Sannavaas" "Obraska Tapsyangok" "Obraska Seyzogriv" "Obraska Vnikkos"
+				"Obraska Trosugon" "Obraska Tsayvis" "Obraska Ugaznik" "Obraska Dorvok"
+				"Obraska Vokpnik" "Obraska Hentras" "Obraska Vagraskon" "Obraska Rakhanksoq"
+				"Obraska Srivnok" "Ogarena Krazvoyn" "Ogarena Myrskyya" "Ogarena Maksprok"
+				"Ogarena Sannavaas" "Ogarena Tapsyangok" "Ogarena Seyzogriv" "Ogarena Vnikkos"
+				"Ogarena Trosugon" "Ogarena Tsayvis" "Ogarena Ugaznik" "Ogarena Dorvok"
+				"Ogarena Vokpnik" "Ogarena Hentras" "Ogarena Vagraskon" "Ogarena Rakhanksoq"
+				"Ogarena Srivnok" "Ozandyra Krazvoyn" "Ozandyra Myrskyya" "Ozandyra Maksprok"
+				"Ozandyra Sannavaas" "Ozandyra Tapsyangok" "Ozandyra Seyzogriv" "Ozandyra Vnikkos"
+				"Ozandyra Trosugon" "Ozandyra Tsayvis" "Ozandyra Ugaznik" "Ozandyra Dorvok"
+				"Ozandyra Vokpnik" "Ozandyra Hentras" "Ozandyra Vagraskon" "Ozandyra Rakhanksoq"
+				"Ozandyra Srivnok" "Ovadima Krazvoyn" "Ovadima Myrskyya" "Ovadima Maksprok"
+				"Ovadima Sannavaas" "Ovadima Tapsyangok" "Ovadima Seyzogriv" "Ovadima Vnikkos"
+				"Ovadima Trosugon" "Ovadima Tsayvis" "Ovadima Ugaznik" "Ovadima Dorvok"
+				"Ovadima Vokpnik" "Ovadima Hentras" "Ovadima Vagraskon" "Ovadima Rakhanksoq"
+				"Ovadima Srivnok" "Ovagana Krazvoyn" "Ovagana Myrskyya" "Ovagana Maksprok"
+				"Ovagana Sannavaas" "Ovagana Tapsyangok" "Ovagana Seyzogriv" "Ovagana Vnikkos"
+				"Ovagana Trosugon" "Ovagana Tsayvis" "Ovagana Ugaznik" "Ovagana Dorvok"
+				"Ovagana Vokpnik" "Ovagana Hentras" "Ovagana Vagraskon" "Ovagana Rakhanksoq"
+				"Ovagana Srivnok" "Okadeya Krazvoyn" "Okadeya Myrskyya" "Okadeya Maksprok"
+				"Okadeya Sannavaas" "Okadeya Tapsyangok" "Okadeya Seyzogriv" "Okadeya Vnikkos"
+				"Okadeya Trosugon" "Okadeya Tsayvis" "Okadeya Ugaznik" "Okadeya Dorvok"
+				"Okadeya Vokpnik" "Okadeya Hentras" "Okadeya Vagraskon" "Okadeya Rakhanksoq"
+				"Okadeya Srivnok" "Ozamrava Krazvoyn" "Ozamrava Myrskyya" "Ozamrava Maksprok"
+				"Ozamrava Sannavaas" "Ozamrava Tapsyangok" "Ozamrava Seyzogriv" "Ozamrava Vnikkos"
+				"Ozamrava Trosugon" "Ozamrava Tsayvis" "Ozamrava Ugaznik" "Ozamrava Dorvok"
+				"Ozamrava Vokpnik" "Ozamrava Hentras" "Ozamrava Vagraskon" "Ozamrava Rakhanksoq"
+				"Ozamrava Srivnok" "Osvanza Krazvoyn" "Osvanza Myrskyya" "Osvanza Maksprok"
+				"Osvanza Sannavaas" "Osvanza Tapsyangok" "Osvanza Seyzogriv" "Osvanza Vnikkos"
+				"Osvanza Trosugon" "Osvanza Tsayvis" "Osvanza Ugaznik" "Osvanza Dorvok"
+				"Osvanza Vokpnik" "Osvanza Hentras" "Osvanza Vagraskon" "Osvanza Rakhanksoq"
+				"Osvanza Srivnok" "Omoskura Krazvoyn" "Omoskura Myrskyya" "Omoskura Maksprok"
+				"Omoskura Sannavaas" "Omoskura Tapsyangok" "Omoskura Seyzogriv" "Omoskura Vnikkos"
+				"Omoskura Trosugon" "Omoskura Tsayvis" "Omoskura Ugaznik" "Omoskura Dorvok"
+				"Omoskura Vokpnik" "Omoskura Hentras" "Omoskura Vagraskon" "Omoskura Rakhanksoq"
+				"Omoskura Srivnok" "Ovvatra Krazvoyn" "Ovvatra Myrskyya" "Ovvatra Maksprok"
+				"Ovvatra Sannavaas" "Ovvatra Tapsyangok" "Ovvatra Seyzogriv" "Ovvatra Vnikkos"
+				"Ovvatra Trosugon" "Ovvatra Tsayvis" "Ovvatra Ugaznik" "Ovvatra Dorvok"
+				"Ovvatra Vokpnik" "Ovvatra Hentras" "Ovvatra Vagraskon" "Ovvatra Rakhanksoq"
+				"Ovvatra Srivnok" "Ovaymata Krazvoyn" "Ovaymata Myrskyya" "Ovaymata Maksprok"
+				"Ovaymata Sannavaas" "Ovaymata Tapsyangok" "Ovaymata Seyzogriv" "Ovaymata Vnikkos"
+				"Ovaymata Trosugon" "Ovaymata Tsayvis" "Ovaymata Ugaznik" "Ovaymata Dorvok"
+				"Ovaymata Vokpnik" "Ovaymata Hentras" "Ovaymata Vagraskon" "Ovaymata Rakhanksoq"
+				"Ovaymata Srivnok" "Ovakima Krazvoyn" "Ovakima Myrskyya" "Ovakima Maksprok"
+				"Ovakima Sannavaas" "Ovakima Tapsyangok" "Ovakima Seyzogriv" "Ovakima Vnikkos"
+				"Ovakima Trosugon" "Ovakima Tsayvis" "Ovakima Ugaznik" "Ovakima Dorvok"
+				"Ovakima Vokpnik" "Ovakima Hentras" "Ovakima Vagraskon" "Ovakima Rakhanksoq"
+				"Ovakima Srivnok" "Otassena Krazvoyn" "Otassena Myrskyya" "Otassena Maksprok"
+				"Otassena Sannavaas" "Otassena Tapsyangok" "Otassena Seyzogriv" "Otassena Vnikkos"
+				"Otassena Trosugon" "Otassena Tsayvis" "Otassena Ugaznik" "Otassena Dorvok"
+				"Otassena Vokpnik" "Otassena Hentras" "Otassena Vagraskon" "Otassena Rakhanksoq"
+				"Otassena Srivnok" "Ovenuva Krazvoyn" "Ovenuva Myrskyya" "Ovenuva Maksprok"
+				"Ovenuva Sannavaas" "Ovenuva Tapsyangok" "Ovenuva Seyzogriv" "Ovenuva Vnikkos"
+				"Ovenuva Trosugon" "Ovenuva Tsayvis" "Ovenuva Ugaznik" "Ovenuva Dorvok"
+				"Ovenuva Vokpnik" "Ovenuva Hentras" "Ovenuva Vagraskon" "Ovenuva Rakhanksoq"
+				"Ovenuva Srivnok" "Okartuna Krazvoyn" "Okartuna Myrskyya" "Okartuna Maksprok"
+				"Okartuna Sannavaas" "Okartuna Tapsyangok" "Okartuna Seyzogriv" "Okartuna Vnikkos"
+				"Okartuna Trosugon" "Okartuna Tsayvis" "Okartuna Ugaznik" "Okartuna Dorvok"
+				"Okartuna Vokpnik" "Okartuna Hentras" "Okartuna Vagraskon" "Okartuna Rakhanksoq"
+				"Okartuna Srivnok" "Odavra Krazvoyn" "Odavra Myrskyya" "Odavra Maksprok"
+				"Odavra Sannavaas" "Odavra Tapsyangok" "Odavra Seyzogriv" "Odavra Vnikkos"
+				"Odavra Trosugon" "Odavra Tsayvis" "Odavra Ugaznik" "Odavra Dorvok" "Odavra Vokpnik"
+				"Odavra Hentras" "Odavra Vagraskon" "Odavra Rakhanksoq" "Odavra Srivnok"
+				"Okova Krazvoyn" "Okova Myrskyya" "Okova Maksprok" "Okova Sannavaas"
+				"Okova Tapsyangok" "Okova Seyzogriv" "Okova Vnikkos" "Okova Trosugon"
+				"Okova Tsayvis" "Okova Ugaznik" "Okova Dorvok" "Okova Vokpnik" "Okova Hentras"
+				"Okova Vagraskon" "Okova Rakhanksoq" "Okova Srivnok" "Ovorska Krazvoyn"
+				"Ovorska Myrskyya" "Ovorska Maksprok" "Ovorska Sannavaas" "Ovorska Tapsyangok"
+				"Ovorska Seyzogriv" "Ovorska Vnikkos" "Ovorska Trosugon" "Ovorska Tsayvis"
+				"Ovorska Ugaznik" "Ovorska Dorvok" "Ovorska Vokpnik" "Ovorska Hentras"
+				"Ovorska Vagraskon" "Ovorska Rakhanksoq" "Ovorska Srivnok" "Ovuurava Krazvoyn"
+				"Ovuurava Myrskyya" "Ovuurava Maksprok" "Ovuurava Sannavaas" "Ovuurava Tapsyangok"
+				"Ovuurava Seyzogriv" "Ovuurava Vnikkos" "Ovuurava Trosugon" "Ovuurava Tsayvis"
+				"Ovuurava Ugaznik" "Ovuurava Dorvok" "Ovuurava Vokpnik" "Ovuurava Hentras"
+				"Ovuurava Vagraskon" "Ovuurava Rakhanksoq" "Ovuurava Srivnok" "Omaansa Krazvoyn"
+				"Omaansa Myrskyya" "Omaansa Maksprok" "Omaansa Sannavaas" "Omaansa Tapsyangok"
+				"Omaansa Seyzogriv" "Omaansa Vnikkos" "Omaansa Trosugon" "Omaansa Tsayvis"
+				"Omaansa Ugaznik" "Omaansa Dorvok" "Omaansa Vokpnik" "Omaansa Hentras"
+				"Omaansa Vagraskon" "Omaansa Rakhanksoq" "Omaansa Srivnok" "Obyrka Krazvoyn"
+				"Obyrka Myrskyya" "Obyrka Maksprok" "Obyrka Sannavaas" "Obyrka Tapsyangok"
+				"Obyrka Seyzogriv" "Obyrka Vnikkos" "Obyrka Trosugon" "Obyrka Tsayvis"
+				"Obyrka Ugaznik" "Obyrka Dorvok" "Obyrka Vokpnik" "Obyrka Hentras"
+				"Obyrka Vagraskon" "Obyrka Rakhanksoq" "Obyrka Srivnok"
 			}
 		}
 	}

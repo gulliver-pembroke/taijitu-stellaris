@@ -1,8 +1,10 @@
 ﻿l_english:
  # Namelists
+ name_list_Advent:0 "Advent"
  name_list_Hemmish:0 "Hemmish"
  
  # Empire names
+ EMPIRE_DESIGN_advent:0 "Advent Coalition"
  EMPIRE_DESIGN_hemms:0 "Hemmish Federacy"
  
  #Flag categories
