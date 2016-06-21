@@ -131,19 +131,19 @@ Advent = {
 				Boundary Capstone Celebration Chancel Chantry Charity Citadel Clemency Cohesion
 				Commune Compassion Conclave Conduit Confluence Congregation Conservation Constancy
 				Convergance Convocation Cooperation Cornerstone Covenant Creche Crest Crossroad
-				Crucible Dedication Destiny Dignity Diligence Discipline Dominion Elation Eminence
-				Empathy Endurance Enlightenment Epiphany Erudition Eternity Eudemonia Euphoria
-				Exultation Faith Fastness Fidelity Firmament Forge Fortress Foundation Foundry Fount
-				Gathering Generosity Gospel Gratitude Harmony Haven Humility Illumination Insight
-				Inspiration Institute Integrity Jubilation Judgment Juncture Keystone Loyalty
-				Magnanimity Mandate Mercy Meridian Moderation Monolith Monument Nave Obedience
-				Obelisk Obligation Observance Order Palisade Passage Patience Permanence
-				Perseverance Piety Pinnacle Preservation Proclamation Progress Prospect Prosperity
-				Protection Prudence Pulpit Purpose Rampart Rapture Redoubt Refuge Revelation
-				Reverence Revery Sacrifice Salvation Sanctity Sanctuary Seminary Serenity Shrine
-				Sigil Stability Stele Sublimity Succession Summit Supremacy Sympathy Tabernacle
-				Temperance Terminal Tranquility Tribute Trust Union Vault Veneration Veracity Verse
-				Vertex Vestibule Vigil Vincture Virtue Vision Wisdom Zenith
+				Crucible Dedication Destiny Dignity Diligence Discipline Dominion Edifice Elation
+				Eminence Empathy Endurance Enlightenment Epiphany Erudition Eternity Eudemonia
+				Euphoria Exultation Faith Fastness Fidelity Firmament Forge Fortress Foundation
+				Foundry Fount Gathering Generosity Gospel Gratitude Harmony Haven Humility
+				Illumination Insight Inspiration Institute Integrity Jubilation Judgment Juncture
+				Keystone Loyalty Magnanimity Mandate Mercy Meridian Moderation Monolith Monument
+				Nave Obedience Obelisk Obligation Observance Order Palisade Passage Patience
+				Permanence Perseverance Piety Pinnacle Prescience Preservation Proclamation Progress
+				Prospect Prosperity Protection Prudence Pulpit Purpose Rampart Rapture Redoubt
+				Refuge Revelation Reverence Revery Sacrifice Salvation Sanctity Sanctuary Seminary
+				Serenity Shrine Sigil Stability Stele Sublimity Succession Summit Supremacy Sympathy
+				Tabernacle Temperance Terminal Tranquility Tribute Trust Union Vault Veneration
+				Veracity Verse Vertex Vestibule Vigil Vincture Virtue Vision Wisdom Zenith
 			}
 		}
 		
