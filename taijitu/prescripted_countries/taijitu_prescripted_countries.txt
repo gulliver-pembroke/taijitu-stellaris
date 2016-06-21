@@ -111,3 +111,60 @@ hemms = {
 		clothes = 3
 	}
 }
+
+moros = {
+	name = moros
+	spawn_enabled = no
+	
+	name_list = Morosi
+	
+	species_name = Mor'osi
+	species_plural = Mor'osi
+	species_adjective = Mor'osi
+	species_class = REP
+	trait = trait_enduring
+	trait = trait_communal
+	trait = trait_natural_sociologists
+	trait = trait_decadent
+	portrait = rep1
+	adjective = Mor'osi
+	
+	government = divine_mandate
+	ethic = ethic_fanatic_spiritualist
+	ethic = ethic_collectivist
+	
+	weapon = tech_lasers_1
+	ftl = hyperdrive
+	
+	planet_name = Mor'os
+	planet_class = pc_tropical
+	system_name = Nexus
+	
+	graphical_culture = reptilian_01
+	city_graphical_culture = reptilian_01
+	
+	empire_flag = {
+		icon = {
+			category = custom
+			file = custom_2.dds
+		}
+		background = {
+			category = backgrounds
+			file = 00_solid.dds
+		}
+		colors = {
+			red
+			red
+			null
+			null
+		}
+	}
+	
+	ruler = {
+		name = Hikein
+		gender = male
+		portrait = rep1
+		texture = 2
+		clothes = 3
+	}
+}

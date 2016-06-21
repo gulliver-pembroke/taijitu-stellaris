@@ -2,11 +2,13 @@
  # Namelists
  name_list_Advent:0 "Advent"
  name_list_Hemmish:0 "Hemmish"
+ name_list_Morosi:0 "Mor'osi"
  
  # Empire names
  EMPIRE_DESIGN_advent:0 "Advent Coalition"
  EMPIRE_DESIGN_hemms:0 "Hemmish Federacy"
- 
+ EMPIRE_DESIGN_moros:0 "Halidom of Mor'os"
+
  #Flag categories
  FLAG_CATEGORY_custom:0 "Custom"
  

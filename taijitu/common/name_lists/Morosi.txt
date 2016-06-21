@@ -1,0 +1,209 @@
+### Hemmish
+Morosi = {
+	### SHIPS
+
+	ship_names = {
+
+		generic = {
+			Neksaup Meusmaum Ryoingdut Nornoil Saupkon Farhyoir Tairnoit Rweildei Rwimleis Tungleis
+			Neskwet Toiltaun Fanmaum Nuskun Ril'hi Taikir Ninset Tunau Pinrek Pilzal Pilgit Fitzhin
+			Nollem Sounbour Seikkal Nailzal Leisnus Gitmen Leirmeu Rounoit Hyoirrweil Boimri Pillon
+			Konlem Zalkun Sasnor Derrin Veilzal Zonchet Rinleis Noirnor Chinhi Menswik Nolmair Pilre
+			Nipmeus Rillon Sounchin Deidwer Bimdun Roikleis Roupil Ronyur Lonzeis Rennoim Lakset
+			Sounnoit Rehyoir Kinbour Hyeingteil Tetmeus Nirtaun Shiklon Niset Pelnoit Nailri Fannus
+			Rihi Lemsaup Sounfan Nounjil Tussoun Hyaisnoun Kontuk Zeisri Naumen Nesnail Lirshik
+			Kinzeis Taiton Elmaum Giri Mairri Ropet Mutchin Kunres Noirnoil Linmeus Rinzot Shiktar
+			Rwoultet Tuze Talkein Farrin Leisre Sekmen Tetfel Seknoil Nirmaum Noilpyait Twoirzal
+			Ninzeis Fimres Peikkir Talnyur Vapnoit Boimpil Meunor Peileis Sauphi Zotlir Rwinsen
+			Monoim Leismut Nitkit Kwetpil Myailak Rinton Metryoing Teklin Tepnail Seikgi Twoirrit
+			Gitu Hyaisnol Zhinkin Zhinryoing Seikchin Mutdut Kuschin Jitrin Sorit Chimchet Mutraun
+			Rilton Kinlak Binset Feijil Keungmeus Niri Rwoulnus Irlon Routuk Jilre Raunros Nanel
+			Dwarshik Jinlem Narkon Peikze Ranryoing Naujil Solar Kitre Saupzot Zalkein Rekroik
+			Feitrwin Noittal Rikun Seikzhin Lwekhyoir Tetlon Leistuk Zeintwoir Rouze Rilkein Poinset
+			Zalso Irkon Keungpeik Meizot Rodas Ramen Raldut Kitgi Nolkun Rimut Roiknoit Fandei Rozal
+			Kalryoing Nwotpem Seitnau Riteil Bingi Binrin Hyeingtal Jittuk Normaum Meizhin Rilnyur
+			Ryoingze Reurchin Nintar Nespem Runlon Noittaun Nernoim Raunso
+		}
+
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			random_names = { }
+			sequential_name = "%O% Frontier Outpost"
+		}
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
+	}
+
+	fleet_names = {
+		random_names = {
+			"Joint Expeditionary Fleet" "Strategic Readiness Fleet" "Tactical Response Fleet" "Rapid Strike Fleet" "Forward Defense Fleet"
+		}
+		sequential_name = "%O% Stellar Fleet"
+	}
+	
+	army_names = {
+	
+		defense_army = {
+			sequential_name = "%O% Colonial Watch"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% Assault Group"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Penal Corps"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Tankbred Regulars"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Battle Drone Wing"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Droid Commando"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Psi-Ops Command"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Shock Swarm"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Purebloods"
+		}
+	}
+
+	### PLANETS
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Kontar Keungnoit Roikkir Lertair Naulmair Finnwot Teknus Kalchet Ninzal Seiswik
+				Zesen Twoirnoim Hanre Lemnor Pildwer Mairpet Misen Felkit Kintaun Metmen Lonkwet
+				Rokun Narmeu Dunri Zalchet Passhik Kirros Richin Derpil Ryoingnyur Nitnol Zekit
+				Hyaisjit Rwoulkin Tetnoit Konlar Jittaun Kusnoun Sounfan Rwimleis Neisroik Dwernol
+				Naukin Nirswik Tairtar Ritkin Dwerrin Resrit Fitraun Nirtet Neltep Fittwoir Ropem
+				Talrit Talrek Talre Chetroik Nairset Zhinsaup Zeiskal Nitteil Myainoit Reurfel
+				Zalnwot Pyetpyait Hyeingkin Nirfel Finrek Taipet Romeus Mutset Dernoit Zekwet
+				Seitlak Noilshik Senbour Tukit Tunwot Seitjil Taunpeik Fimseit Jildwer Menlar
+				Noirtair Eljit Hyaisleis Noitleis Lerkir Raunri Gitjit Runmen Linteil Norpem Niptep
+				Nichet Napil Farfan Meustaun Meuszhin Minrwin Nafan Kwetjil Kitmair Vurmair Lwekso
+				Hyoirmut Nelri Motair Talkir Kirzeis Resroik Poinkon Naulpil Dunrit Zotzeis Jittair
+				Rentwoir Romaum Norkal Mairri Pyaitri Gyeingmaum Shiktwoir Renjil Deihyoir Teiljil
+				Dasbour Naulres Tetnyur Fitfan Niros Derpet Pyaittaun Runtu Naufel Talmeus Finhi
+				Eknoit Zejit Linre Noilros Gilir Twoirmeus Zalmi Rwoulmeus Minsoun Rilmeu Deinoun
+				Dutnoun Hyeingros Dwertu Hyaisfim Napet Rokmen Kalkit Michin Settep Ekkun Niros
+				Pastu Ripem Sekpoin Nausmeu Hannir Mairrit Maumkon Seizeis Fimswik Shikze Setnir
+				Piltet Konlem Fantuk Nasaup Sonus Pinroik Noitzal Rwinmeus Sheitlir Zalpeik Reurkin
+				Mairkun Jitrwin Renkir Nitnau Nimi Zeisfan Noltep Sonir Zesaup Nyurkwet Keinton
+				Tepkin Nairdei Kirkun Larzal Sassen Fanmair Fanlar Naulnoim 
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+		
+	}
+
+	### CHARACTERS
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				Gitpet Sekrek Nittep Nausros Lwekmeus Rilleis Twoirgi Nauhyoir Seitchin Sasros
+				Kinzhin Hyoirpet Rinail Zalrweil Boimkit Lirmair Derlak Meuspeik Tonnwot Tetrin
+				Rwoulzhin Twoirdwer Saupmaum Lirkit Bermaum Rinlem Sounlar Kinres Nitgit Ritlir
+				Pyettep Reurri Nwotnoim Sheptair Noitmair Lempil Keinrwin Sonir Natmair Rintet
+				Sasset Kitfim Peiknail Raungit Nanoim Nolnoit Keindas Nazhin Nire Lergit
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				Peltal Myaimen Sasjil Nolhyeing Noimre Norkit Nerpil Lontaun Reskin Peichin Pinsek
+				Raunkein Nounjil Lonkein Bimmair Lerzot Lerzeis Kirbour Rwimrit Fittal Peiksen
+				Rosraun Finton Poinze Nordut Zeisros Nolnoit Nardut Nakir Sasrit Rilre Monail
+				Deikwet Meunyur Konmi Lemzal Tailir Taunnel Ryoingmen Twoirmen Nwotnoun Poinswik
+				Twoirkir Nitlak Hifan Hirweil Bourpem Rorin Nauspoin Fanhyoir
+			}
+			
+			regnal_full_names = {
+				Toillem Renri Tonmeu Peltet Lempeik Rwinmen Rikon Mitpyait Noimfel Hikein Rinnoun
+				Nirnyur Zhintwoir Eknor Neksaup Datpem Paskun Binlin Tunghyoir Noitkun Laknail
+				Bersoun Roiksek Irjil Jitdei
+			}
+		}
+	}
+}
