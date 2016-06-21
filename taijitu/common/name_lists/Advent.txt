@@ -1,5 +1,5 @@
-### Hemmish
-Hemmish = {
+### Advent
+Advent = {
 	### SHIPS
 
 	ship_names = {
@@ -55,7 +55,7 @@ Hemmish = {
 		}
 		
 		constructor = {
-			Capstone Conduit Cornerstone Crucible Forge Foundation Foundry Keystone
+			Capstone Conduit Cornerstone Crucible Forge Foundation Foundry Keystone Labor Industry
 		}
 		
 		
@@ -194,26 +194,30 @@ Hemmish = {
 			
 			# Always combined with a second name
 			first_names = {
-				Ascendent Calm Dedicated Diligent Disciplined Eminent Faithful Gracious Judicious
-				Loyal Prudent Purposeful Reverent Serene Silent Tranquil Venerable Vigilant Wise
-				Worthy
+				Ardent Ascendent Benevolent Calm Curious Dedicated Diligent Disciplined Eminent
+				Fastidious Fastidious Gracious Humble Insightful Inspired Judicious Loyal Obedient
+				Prescient Proficient Prudent Purposeful Reverent Serene Silent Tranquil Venerable
+				Vigilant Wise Worthy
 			}
 			
 			# Always combined with a first name
 			second_names = {
-				Apostle Artificer Artisan Augur Craftsman Disciple Herald Initiate Master Peer
-				Prophet Pupil Sage Savant Scholar Seer Specialist Student Technician Witness
+				Adherent Apostle Architect Artificer Artisan Augur Craftsman Creator Disciple Herald
+				Initiate Instructor Machinist Master Minister Observer Peer Prophet Pupil Sage
+				Savant Scholar Seer Specialist Student Student Teacher Technician Visionary Witness
 			}
 			
 			regnal_first_names = {
-				Ascendent Calm Dedicated Diligent Disciplined Eminent Faithful Gracious Judicious
-				Loyal Prudent Purposeful Reverent Serene Silent Tranquil Venerable Vigilant Wise
-				Worthy
+				Ardent Ascendent Benevolent Calm Curious Dedicated Diligent Disciplined Eminent
+				Fastidious Fastidious Gracious Humble Insightful Inspired Judicious Loyal Obedient
+				Prescient Proficient Prudent Purposeful Reverent Serene Silent Tranquil Venerable
+				Vigilant Wise Worthy
 			}
 			
 			regnal_second_names = {
-				Apostle Artificer Artisan Augur Craftsman Disciple Herald Initiate Master Peer
-				Prophet Pupil Sage Savant Scholar Seer Specialist Student Technician Witness
+				Adherent Apostle Architect Artificer Artisan Augur Craftsman Creator Disciple Herald
+				Initiate Instructor Machinist Master Minister Observer Peer Prophet Pupil Sage
+				Savant Scholar Seer Specialist Student Student Teacher Technician Visionary Witness
 			}
 		}
 	}

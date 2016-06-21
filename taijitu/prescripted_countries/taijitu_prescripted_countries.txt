@@ -6,14 +6,13 @@ advent = {
 	
 	species_name = Ethereal
 	species_plural = Ethereals
-	species_adjective = Ethereal
+	species_adjective = Ethereals
 	species_class = REP
 	trait = trait_intelligent
-	trait = trait_quick_learners
-	trait = trait_enduring
+	trait = trait_talented
 	trait = trait_slow_breeders
 	trait = trait_weak
-	portrait = rep12
+	portrait = rep1
 	adjective = Advent
 	
 	government = despotic_hegemony
@@ -29,84 +28,85 @@ advent = {
 	
 	graphical_culture = reptilian_01
 	city_graphical_culture = reptilian_01
+	
 	empire_flag = {
-		icon= {
-			category = "spherical"
-			file = "flag_spherical_24.dds"
+		icon = {
+			category = custom
+			file = custom_2.dds
 		}
-		background= {
-			category = "backgrounds"
-			file = "00_solid.dds"
+		background = {
+			category = backgrounds
+			file = stripes.dds
 		}
-		colors={
-			"red"
-			"black"
-			"null"
-			"null"
+		colors = {
+			red
+			black
+			null
+			null
 		}
 	}
 	
 	ruler = {
-		name = "Sandyr Odavra Tapsyangok"
+		name = "Patient Observer"
 		gender = male
-		portrait = "mam14"
-		texture = 0
+		portrait = rep1
+		texture = 2
 		clothes = 3
 	}
 }
 
 hemms = {
-	name = "hemms"
+	name = hemms
 	spawn_enabled = yes
 	
-	name_list = "Hemmish"
+	name_list = Hemmish
 	
-	species_name = "Hemm"
-	species_plural = "Hemms"
-	species_adjective = "Hemmish"
-	species_class = "MAM"
-	trait = "trait_conformists"
-	trait = "trait_strong"
-	trait = "trait_sedentary"
-	portrait = "mam14"
-	adjective = "Hemmish"
+	species_name = Hemm
+	species_plural = Hemms
+	species_adjective = Hemmish
+	species_class = MAM
+	trait = trait_conformists
+	trait = trait_strong
+	trait = trait_sedentary
+	portrait = mam14
+	adjective = Hemmish
 	
-	government = "military_junta"
-	ethic = "ethic_xenophobe"
-	ethic = "ethic_militarist"
-	ethic = "ethic_collectivist"
+	government = military_junta
+	ethic = ethic_xenophobe
+	ethic = ethic_militarist
+	ethic = ethic_collectivist
 	
-	weapon = "tech_mass_drivers_1"
+	weapon = tech_mass_drivers_1
 	ftl = hyperdrive
 	
-	planet_name = "Hemmayot"
-	planet_class = "pc_tundra"
-	system_name = "Hrun"
+	planet_name = Hemmayot
+	planet_class = pc_tundra
+	system_name = Hrun
 	
-	graphical_culture = "mammalian_01"
-	city_graphical_culture = "mammalian_01"
+	graphical_culture = mammalian_01
+	city_graphical_culture = mammalian_01
 	
 	empire_flag = {
 		icon= {
-			category = "spherical"
-			file = "flag_spherical_24.dds"
+			category = spherical
+			file = flag_spherical_24.dds
 		}
 		background= {
-			category = "backgrounds"
-			file = "00_solid.dds"
+			category = backgrounds
+			file = 00_solid.dds
 		}
 		colors={
-			"blue"
-			"blue"
-			"null"
-			"null"
+			blue
+			blue
+			null
+			null
 		}
 	}
 	
 	ruler = {
 		name = "Sandyr Odavra Tapsyangok"
 		gender = male
-		portrait = "mam14"
+		portrait = mam14
 		texture = 0
 		clothes = 3
 	}
