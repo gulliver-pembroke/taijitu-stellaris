@@ -43,7 +43,7 @@ Morosi = {
 			Kordaip Nakaw Nukan Gete Daipzhin Dolpis Depna Bilbel Rirnil Kenrar Chirnio Jilzhin
 			Nesfoik Letal Dursa Vanio Shingnam Senbom Rotsham Kanban Saktuar Daipri Shirres Seurnan
 			Witram Likfoik Seszot Retram Tuttat Biltow Mumi Doljil Zolchul Pezhin Pilli Nevuel
-			Danlior Pistuar Dolnol Sonsa Shittat Banro Zotram Zhitdur Durkan Nirdur Liriw Chulfoik
+			Danlior Pistuar Dolnol Sonsa Chirtow Banro Zotram Zhitdur Durkan Nirdur Liriw Chulfoik
 			Famnil Ramnol Tengna Saskan Ninsa Sesge Tuartut Dolken Parses Mownal Talrin Shekne
 			Rownil Rirriw Senge Tuorlom
 		}
@@ -151,7 +151,7 @@ Morosi = {
 				Sawnu Ilkaw Shirte Sanan Puingte Tannem Chingdur Vutchul Sawlay Noldaip Zhingit
 				Bomsa Litdep Riwit Zartuar Gitnil Chusjil Dorar Rakkan Nionam Nize Jilnan Ninbom
 				Nemge Likdus Kanem Ressein Zemnol Chirvip Nuamlay Zemrir Rotri Rarmit Nakku Line
-				Banku Kuapnan Jipsa Zhitfoik Bomram Shitkan Nosri Zemnak Ninchul Tutkor Noszot
+				Banku Kuapnan Jipsa Zhitfoik Bomram Tenres Nosri Zemnak Ninchul Tutkor Noszot
 				Herlay Vaikli Sakzhit Rinu Sentuar Nil'i Namnio Lhelnuam Shosban Chitlior Niausvan
 				Talres Kasham Rarnin Nalchul Zekor Bilne Dangren Delne Rane Riwres Herdaip Toumte
 				Tuenzol Sonkuap Bilsaw Nesren Japnu Demres Miarbel Foikpil Nacher Niltow Bannin
