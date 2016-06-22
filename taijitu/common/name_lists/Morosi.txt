@@ -1,4 +1,3 @@
-### Hemmish
 Morosi = {
 	### SHIPS
 
