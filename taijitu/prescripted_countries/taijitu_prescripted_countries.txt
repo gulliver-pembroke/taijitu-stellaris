@@ -138,7 +138,7 @@ moros = {
 	
 	planet_name = Mor'os
 	planet_class = pc_tropical
-	system_name = Nexus
+	system_name = Visram
 	
 	graphical_culture = reptilian_01
 	city_graphical_culture = reptilian_01
@@ -161,7 +161,7 @@ moros = {
 	}
 	
 	ruler = {
-		name = Hikein
+		name = Iro
 		gender = male
 		portrait = rep1
 		texture = 2
