@@ -203,8 +203,8 @@ Advent = {
 			# Always combined with a first name
 			second_names = {
 				Adherent Apostle Architect Artificer Artisan Augur Craftsman Creator Disciple Herald
-				Initiate Instructor Machinist Master Minister Observer Peer Prophet Pupil Sage
-				Savant Scholar Seer Specialist Student Student Teacher Technician Visionary Witness
+				Initiate Instructor Machinist Master Minister Observer Peer Prophet Proselyte Pupil
+				Sage Savant Scholar Seer Specialist Student Teacher Technician Visionary Witness
 			}
 			
 			regnal_first_names = {
@@ -216,8 +216,8 @@ Advent = {
 			
 			regnal_second_names = {
 				Adherent Apostle Architect Artificer Artisan Augur Craftsman Creator Disciple Herald
-				Initiate Instructor Machinist Master Minister Observer Peer Prophet Pupil Sage
-				Savant Scholar Seer Specialist Student Student Teacher Technician Visionary Witness
+				Initiate Instructor Machinist Master Minister Observer Peer Prophet Proselyte Pupil
+				Sage Savant Scholar Seer Specialist Student Teacher Technician Visionary Witness
 			}
 		}
 	}
