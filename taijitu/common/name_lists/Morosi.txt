@@ -176,7 +176,7 @@ Morosi = {
 				Lidur Natgit Kancher Chowpan Litze Demge Liornio Giupri Nalnil Dem'i Vekpan Kanku
 				Sham'i Rarvip Ranro Riteng Dustoum Nakdep Zenan Luli Laype Muntat Niausriw Ramsa
 				Binlhel Miarni Natsham Lises Kellom Miargit Litrar Sabin Sadur Lenil Shamdus Zar'i
-				Leli Toumnos Dusbel Nolsein Bomrir Towzem Kuban Lomku Natmit Demze Retching Rinam
+				Leli Toumnos Dusbel Nolsein Bomrir Towzem Kuban Lomku Natmit Demze Cherar Rinam
 				Witsas Natlit Niosham Aispil Seurjil Foikban Shingma Lilit Luching Chite Piste
 			}
 		}
@@ -228,7 +228,7 @@ Morosi = {
 			
 			# Always combined with a second name
 			first_names = {
-				Vekching Chitnol Dangbel Kuitni Tuarcher Kuattuar Nemtoum Tenrar Liorkaw Retching
+				Vekching Chitnol Dangbel Kuitni Tuarcher Kuattuar Nemtoum Tenrar Liorkaw Ses'in
 				Hiwlay Riwli Jipzuais Shilit Gechul Mitlhel Ramsas Daktut Murar Aisnin Nandep Rize
 				Numi Donuam Shosbom Piltow Jilli Zotsein Lesnu Tengram Kaurrin Kitsaw Gitwit Hiwnin
 				Nanzot Banmi Shinol Jipzol Kortut Giupnak Vutnan Rotpuing Mayzol Gena Nesgit Daipnem
