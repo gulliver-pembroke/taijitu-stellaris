@@ -87,48 +87,45 @@ Morosi = {
 	}
 
 	fleet_names = {
-		random_names = {
-			"Joint Expeditionary Fleet" "Strategic Readiness Fleet" "Tactical Response Fleet" "Rapid Strike Fleet" "Forward Defense Fleet"
-		}
-		sequential_name = "%O% Stellar Fleet"
+		sequential_name = "%O% Heavenly Fleet"
 	}
 	
 	army_names = {
 	
 		defense_army = {
-			sequential_name = "%O% Colonial Watch"
+			sequential_name = "%O% Guardians"
 		}
 			
 		assault_army = {
-			sequential_name = "%O% Assault Group"
+			sequential_name = "%O% Crusaders"
 		}
 		
 		slave_army = {
-			sequential_name = "%O% Penal Corps"
+			sequential_name = "%O% Penitents"
 		}
 		
 		clone_army = { 
-			sequential_name = "%O% Tankbred Regulars"
+			sequential_name = "%O% Unsullied"
 		}
 		
 		robotic_army = {
-			sequential_name = "%O% Battle Drone Wing"
+			sequential_name = "%O% Golems"
 		}
 		
 		android_army = {
-			sequential_name = "%O% Droid Commando"
+			sequential_name = "%O% Simulacrums"
 		}
 		
 		psionic_army = { 
-			sequential_name = "%O% Psi-Ops Command"
+			sequential_name = "%O% Seers"
 		}
 		
 		xenomorph_army = {
-			sequential_name = "%O% Shock Swarm"
+			sequential_name = "%O% Homunculi"
 		}
 		
 		gene_warrior_army = {
-			sequential_name = "%O% Purebloods"
+			sequential_name = "%O% Redeemed"
 		}
 	}
 
