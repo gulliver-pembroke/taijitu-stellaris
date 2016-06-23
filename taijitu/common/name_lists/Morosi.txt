@@ -4,48 +4,48 @@ Morosi = {
 	ship_names = {
 
 		generic = {
-			Bintow Rilior Toumnam Shamchul Zhitna Zemze Nilzhin Litbil Damvip Pema Ralrin Bintow
-			Keldus Daipzhin Chowpan Dakvuel Rolom Lupis Riram Chusbel Resrin Luni Durvan Nune Ramkan
+			Bintou Rilior Toumnam Shamchul Zhitna Zemze Nilzhin Litbil Damvip Pema Ralrin Bintou
+			Keldus Daipzhin Choupan Dakvuel Rolom Lupis Riram Chusbel Resrin Luni Durvan Nune Ramkan
 			Binrir Ranbel Deprar Restat Vawit Bilze Zewit Littuen Rarmit Lomne Niori Daipvan Futbel
 			Tuttuar Nitses Naro Liorri Vektut Muetnal Foikdur Puisna Taldur Shosma Vanmi Ramnos
-			Vavuel Futram Shamching Maybel Tatvuel Tete Tatnil Saksein Rarsham Nanze Sagit Jipkel
-			Sonvan Tatnal Binnan Nalma Kupe Napkan Kuatching Le'i Saksa Shilior Toumriw Hertuen
+			Vavuel Futram Shamching Maibel Tatvuel Tete Tatnil Saksein Rarsham Nanze Sagit Jipkel
+			Sonvan Tatnal Binnan Nalma Kupe Napkan Kuatching Le'i Saksa Shilior Toumriu Hertuen
 			Geres Resses Kuatku Niopil Nuncher Vekban Muri Tuorzot Mili Riri Mundus Chus'i Riarram
-			Belmit Tuorsham Nilkaw Rirzhin Ilzol Chownan Bitzot Mowsa Totpe Kunil Chitnil Shinem
-			Jipnin Panzol Notsein Shingsein Kitnio Ludus Tanlom Napan Nitkel Nuna Binlay Vanlay
+			Belmit Tuorsham Nilkau Rirzhin Ilzol Chounan Bitzot Mousa Totpe Kunil Chitnil Shinem
+			Jipnin Panzol Notsein Shingsein Kitnio Ludus Tanlom Napan Nitkel Nuna Binlai Vanlai
 			Rinrar Retlhel Dempil Tuarmit Kannak Zhinram Giupchul Nemri Lerir Renlom Futbin Mures
-			Duakaw Bomban Puingtat Rokan Dantal Shampan Demrar Lhelnuam Chirdus Valom Zarnil Korma
-			Reskor Zollhel Ilram Noldur Neni Kuappuing Rarvan Hiwses Geram Rotuar Kuatri Zhintow
-			Mitpe Pantuar Vansaw Vutnam Zuaisne Niram Nam'in Tuarrir Lulit Zhitchul Chiriw Rinil
-			Doriw Rizhin Rirching Ronal Rakel Puisne Chitfoik Dolro Rirwit Nolwit Kensas Miwli
-			Chirzuais Niauscher Maysham Totlhel Notnos Rarnem Ludus Bitdus Towgit Damro Nutat Duskan
+			Duakau Bomban Puingtat Rokan Dantal Shampan Demrar Lhelnuam Chirdus Valom Zarnil Korma
+			Reskor Zollhel Ilram Noldur Neni Kuappuing Rarvan Hiuses Geram Rotuar Kuatri Zhintou
+			Mitpe Pantuar Vansau Vutnam Zuaisne Niram Nam'in Tuarrir Lulit Zhitchul Chiriu Rinil
+			Doriu Rizhin Rirching Ronal Rakel Puisne Chitfoik Dolro Rirwit Nolwit Kensas Miuli
+			Chirzuais Niauscher Maisham Totlhel Notnos Rarnem Ludus Bitdus Tougit Damro Nutat Duskan
 			Ilwit Tuensas Kuatvan Nemmit Botzhit Rammi Nottut Ramne Chirni Dakpuing Nechul Nanjil
-			Chirnuam Gesein Shingmay Namken Sakor Lomtut Kuapgit Muro Nirban Mowfoik Tengren Nitdus
-			Tatrar Rizhin Shekrir Lizhin Idaip Nolvuel Vaikzot Mownil Chingnio Rinos Ruwit Shingpil
+			Chirnuam Gesein Shingmai Namken Sakor Lomtut Kuapgit Muro Nirban Moufoik Tengren Nitdus
+			Tatrar Rizhin Shekrir Lizhin Idaip Nolvuel Vaikzot Mounil Chingnio Rinos Ruwit Shingpil
 			Depres Dusrin Rokuap Redus Jillom Vuelpe Bomdus Dangteng Shamtal Rivan Talna Bante Kitku
-			Leschul Dolban Kawli Kitnam Do'i Zarteng Parbin Lekor Duatuen Teteng Delnol Kitnos
+			Leschul Dolban Kauli Kitnam Do'i Zarteng Parbin Lekor Duatuen Teteng Delnol Kitnos
 			Nunkuap Ituar Nirtut Tengnos Pisgit Senlhel Vutsa Sakdus Lenam Ninni Shampan Talzem
-			Ramzuais Lisein Binku Nap'i Tuenken Rampan Bitzuais Chowkor Towdaip Gelay Shamkel
-			Zuaislit Gitres Saste Nitnuam Naram Futnuam Kuapdaip Dori Dannu Vutzhit Lijil Kuitlay
-			Nuro Jipren Rakpan Chulsein Pante Shingsa Ku'i Ranfoik Miwnos Liornan Nasham Kuteng
-			Neslay Durken Rolit Rarze Vaiknol Belriw Zemnal Rises Renken Zarvuel Rownol Aislit
+			Ramzuais Lisein Binku Nap'i Tuenken Rampan Bitzuais Choukor Toudaip Gelai Shamkel
+			Zuaislit Gitres Saste Nitnuam Naram Futnuam Kuapdaip Dori Dannu Vutzhit Lijil Kuitlai
+			Nuro Jipren Rakpan Chulsein Pante Shingsa Ku'i Ranfoik Miunos Liornan Nasham Kuteng
+			Neslai Durken Rolit Rarze Vaiknol Belriu Zemnal Rises Renken Zarvuel Rounol Aislit
 			Toumdaip Leku Kalom Reslit Naku Pange Nanan Ramzot Nirvip Liorna Rikel Partuar Line
-			Chermi Shoschul Nitkor Depmay Ronak Chedep Pilma Kenkuap Tow'in Rirni Vari Inio Zuaisri
+			Chermi Shoschul Nitkor Depmai Ronak Chedep Pilma Kenkuap Tou'in Rirni Vari Inio Zuaisri
 			Kaurro Rarwit Duabom Tatrin Kiacher Korpe Gezhin Saku Riku Aisram Cheteng Renvan Shisein
 			Nitzol Vakuap Ilram Nolrir Shammi Vueltuen Pansham Tengkuap Witvuel Kuapku Chipil Lenio
-			Shingpil Toumdur Lete Kuram Niteng Rowkel Dangnin Seintut Nazuais Iltuar Napram Kuapku
-			Sesriw Kitnil Chingtow Vavip Jip'in Bomren Aisrar Witbil Tuttal Rutuar Vansas Piszhit
-			Tuornol Vavuel Reres Maynu Hernio Tekel Ninrar Talkuap Ramze Shirban Letuar Nitrin
-			Liorma Shoszot Toumzuais Nankor Zolsaw Chitnil Zemtut Towzhin Riarma Zemdep Nirtuar
-			Nal'in Kaurses Zemkaw Kasa Mowdep Kiabil Banlom Cheses Vuelli Duslit Niauspis Likdep
-			Kiepnio Natte Korpan Napken Ramsas Restat Dakjil Dellay Chitteng Kuitzhit Vipching
-			Rirzem Nuvan Rowlhel Miarmay Muetmit Nioro Tanze Towkor Sawsham Rali Tengtuar Natni
-			Kordaip Nakaw Nukan Gete Daipzhin Dolpis Depna Bilbel Rirnil Kenrar Chirnio Jilzhin
+			Shingpil Toumdur Lete Kuram Niteng Roukel Dangnin Seintut Nazuais Iltuar Napram Kuapku
+			Sesriu Kitnil Chingtou Vavip Jip'in Bomren Aisrar Witbil Tuttal Rutuar Vansas Piszhit
+			Tuornol Vavuel Reres Mainu Hernio Tekel Ninrar Talkuap Ramze Shirban Letuar Nitrin
+			Liorma Shoszot Toumzuais Nankor Zolsau Chitnil Zemtut Touzhin Riarma Zemdep Nirtuar
+			Nal'in Kaurses Zemkau Kasa Moudep Kiabil Banlom Cheses Vuelli Duslit Niauspis Likdep
+			Kiepnio Natte Korpan Napken Ramsas Restat Dakjil Dellai Chitteng Kuitzhit Vipching
+			Rirzem Nuvan Roulhel Miarmai Muetmit Nioro Tanze Toukor Sausham Rali Tengtuar Natni
+			Kordaip Nakau Nukan Gete Daipzhin Dolpis Depna Bilbel Rirnil Kenrar Chirnio Jilzhin
 			Nesfoik Letal Dursa Vanio Shingnam Senbom Rotsham Kanban Saktuar Daipri Shirres Seurnan
-			Witram Likfoik Seszot Retram Tuttat Biltow Mumi Doljil Zolchul Pezhin Pilli Nevuel
-			Danlior Pistuar Dolnol Sonsa Chirtow Banro Zotram Zhitdur Durkan Nirdur Liriw Chulfoik
-			Famnil Ramnol Tengna Saskan Ninsa Sesge Tuartut Dolken Parses Mownal Talrin Shekne
-			Rownil Rirriw Senge Tuorlom
+			Witram Likfoik Seszot Retram Tuttat Biltou Mumi Doljil Zolchul Pezhin Pilli Nevuel
+			Danlior Pistuar Dolnol Sonsa Chirtou Banro Zotram Zhitdur Durkan Nirdur Liriu Chulfoik
+			Famnil Ramnol Tengna Saskan Ninsa Sesge Tuartut Dolken Parses Mounal Talrin Shekne
+			Rounil Rirriu Senge Tuorlom
 		}
 
 		corvette = {
@@ -134,48 +134,48 @@ Morosi = {
 
 		generic = {
 			names = {
-				Seinriw Nezol Nildus Dusne Foikni Vipres Nilvuel Mit'i Jilvan Valwit Laylom Rinlit
+				Seinriu Nezol Nildus Dusne Foikni Vipres Nilvuel Mit'i Jilvan Valwit Lailom Rinlit
 				Miartuar Roge Zhinnem Lomnin Dakrin Rartut Tengmi Nitsham Japnin Liku Lom'i Nemtal
-				Billhel Sonnu Kuitses Mapis Vaban Seinpis Resbel Ritut Kuitnu Miwni Tezot Depma
-				Rinmit Tenching Valkel Depkel Mili Herro Kawnio Litmi Lhelsein Cherzhin Kiepro
-				Mitlit Botvan Niauspan Panken Japtat Tut'in Nubom Kunil Inro Niauslay Liorsa Revan
+				Billhel Sonnu Kuitses Mapis Vaban Seinpis Resbel Ritut Kuitnu Miuni Tezot Depma
+				Rinmit Tenching Valkel Depkel Mili Herro Kaunio Litmi Lhelsein Cherzhin Kiepro
+				Mitlit Botvan Niauspan Panken Japtat Tut'in Nubom Kunil Inro Niauslai Liorsa Revan
 				Lesnem Witro Ilnil Jilpil Vuelna Toumna Kenpil Tuenkor Chuspuing Totma Bitni Tuenna
 				Muetma Niausze Nanrir Tengtuar Rarpan Nirtuar Lomli Namvan Kuitkan Vipro Rarpil
 				Japwit Risas Sasching Notram Binzuais Chulkel Tenio Chirpis Nenos Zhinnem Japzhit
 				Vutpan Dangnak Nolku Renbel Lesa Litzhit Dakzhin Chusban Chiching Shosres Zhinchul
-				Nudep Nesnu Kapil Vajil Kuapli Panpe Tennil Lekuap Nipis Nizol Hiwpe Vavuel Kiepfoik
-				Renses Dussein Runos Toumlhel Bankuap Muetbin Nuamni Viplay Dojil Tanram Bomrar
-				Laynuam Chitban Chitow Giup'in Ralteng Japne Chultow Mulit Nestut Mowram Botma Nusa
+				Nudep Nesnu Kapil Vajil Kuapli Panpe Tennil Lekuap Nipis Nizol Hiupe Vavuel Kiepfoik
+				Renses Dussein Runos Toumlhel Bankuap Muetbin Nuamni Viplai Dojil Tanram Bomrar
+				Lainuam Chitban Chitou Giup'in Ralteng Japne Chultou Mulit Nestut Mouram Botma Nusa
 				Lhelnil Demching Vutnam Bilkel Lesnos Vaikzhit Vekri Keljil Puisnan Bange Riarzuais
-				Niren Legit Maytat Foikban Cherjil Zhinses Nirgit Zemching Bannos Chitwit Sawnol
-				Sawnu Ilkaw Shirte Sanan Puingte Tannem Chingdur Vutchul Sawlay Noldaip Zhingit
+				Niren Legit Maitat Foikban Cherjil Zhinses Nirgit Zemching Bannos Chitwit Saunol
+				Saunu Ilkau Shirte Sanan Puingte Tannem Chingdur Vutchul Saulai Noldaip Zhingit
 				Bomsa Litdep Riwit Zartuar Gitnil Chusjil Dorar Rakkan Nionam Nize Jilnan Ninbom
-				Nemge Likdus Kanem Ressein Zemnol Chirvip Nuamlay Zemrir Rotri Rarmit Nakku Line
+				Nemge Likdus Kanem Ressein Zemnol Chirvip Nuamlai Zemrir Rotri Rarmit Nakku Line
 				Banku Kuapnan Jipsa Zhitfoik Bomram Tenres Nosri Zemnak Ninchul Tutkor Noszot
-				Herlay Vaikli Sakzhit Rinu Sentuar Nil'i Namnio Lhelnuam Shosban Chitlior Niausvan
-				Talres Kasham Rarnin Nalchul Zekor Bilne Dangren Delne Rane Riwres Herdaip Toumte
-				Tuenzol Sonkuap Bilsaw Nesren Japnu Demres Miarbel Foikpil Nacher Niltow Bannin
-				Ramgit Vekri Pesa Ruge Sasro Lhellay Hiwses Kanvip Shirri Inro Damzhit Resrar
-				Kaurge Ramtuen Likel Zemi Zarnos Chirnan Chingdur Shingkan Shirma Kieplior Zemsaw
-				Chingfoik Futrar Dellhel Namtuar Kawtut Natpil Nulior Nesfoik Chikaw Mun'in Chetow
-				Rennos Liktuen Rarnak Chitnan Totdur Totpil Zotsaw Sastow Vandur Valdur Ilkaw Nesnil
-				Nilni Shosro Sheklom Mayses Tatram Maynos Gitnol Damro Aispuing Sonnam Layte Sarir
-				Nusham Varar Vekrar Daktut Tuenze Hiwnil Nuro Nemmit Dusbil Samit Vipli Lu'in Seinni
-				Seinnam Talbil Rinam Neslay Dakcher Lemit Tengne Jipkan Restuar Belzuais Gittuen
-				Kanu Muetbil Gekuap Chedaip Dakgit Binpe Kenmi Vutlior Tenli Ramay Lomvan Famnin
-				Nuri Riwres Zemni Seinses Les'in Gitnil Gena Ilro Kit'i Jilro Famnan Dusnos Zarni
+				Herlai Vaikli Sakzhit Rinu Sentuar Nil'i Namnio Lhelnuam Shosban Chitlior Niausvan
+				Talres Kasham Rarnin Nalchul Zekor Bilne Dangren Delne Rane Riures Herdaip Toumte
+				Tuenzol Sonkuap Bilsau Nesren Japnu Demres Miarbel Foikpil Nacher Niltou Bannin
+				Ramgit Vekri Pesa Ruge Sasro Lhellai Hiuses Kanvip Shirri Inro Damzhit Resrar
+				Kaurge Ramtuen Likel Zemi Zarnos Chirnan Chingdur Shingkan Shirma Kieplior Zemsau
+				Chingfoik Futrar Dellhel Namtuar Kautut Natpil Nulior Nesfoik Chikau Mun'in Chetou
+				Rennos Liktuen Rarnak Chitnan Totdur Totpil Zotsau Sastou Vandur Valdur Ilkau Nesnil
+				Nilni Shosro Sheklom Maises Tatram Mainos Gitnol Damro Aispuing Sonnam Laite Sarir
+				Nusham Varar Vekrar Daktut Tuenze Hiunil Nuro Nemmit Dusbil Samit Vipli Lu'in Seinni
+				Seinnam Talbil Rinam Neslai Dakcher Lemit Tengne Jipkan Restuar Belzuais Gittuen
+				Kanu Muetbil Gekuap Chedaip Dakgit Binpe Kenmi Vutlior Tenli Ramai Lomvan Famnin
+				Nuri Riures Zemni Seinses Les'in Gitnil Gena Ilro Kit'i Jilro Famnan Dusnos Zarni
 				Numi Rires Nesnal Mitsas Vaikro Shirrar Chinam Ninbom Bilku Riarni Muetnan Ropuing
-				Duamay Belmay Lecher Niauslay Famdur Hiwbom Dakmit Zemnos Nolpan Kiurfoik Nanos
-				Japna Piste Namro Shinak Dusram Danzhit Kawnem Leli Botpan Kuzol Rartuen Tuarbom
-				Kiurnuam Shekvip Miwnam Mitban Ninkuap Zhitnio Chitsein Dangkel Panpis Zarkor Lerar
-				Kensaw Ransein Valbom Shingwit Demku Bomban Dellior Kares Namvip Raku Nilzol Sein'in
-				Tanrar Riartow Nakvip Rezem Retnal Sasmi Chulban Vares Zhinri Saksham Dangfoik
-				Muetlay Ilvan Temi Puingkaw Nanmay Pisli Nesmit Mowmi Nittoum Hiwna Duadep Zhinlior
-				Shingnam Duskel Zotnil Tenmay Demrar Dangdur Kiursham Vanlay Shingni Zemnak Lesham
-				Lidur Natgit Kancher Chowpan Litze Demge Liornio Giupri Nalnil Dem'i Vekpan Kanku
-				Sham'i Rarvip Ranro Riteng Dustoum Nakdep Zenan Luli Laype Muntat Niausriw Ramsa
+				Duamai Belmai Lecher Niauslai Famdur Hiubom Dakmit Zemnos Nolpan Kiurfoik Nanos
+				Japna Piste Namro Shinak Dusram Danzhit Kaunem Leli Botpan Kuzol Rartuen Tuarbom
+				Kiurnuam Shekvip Miunam Mitban Ninkuap Zhitnio Chitsein Dangkel Panpis Zarkor Lerar
+				Kensau Ransein Valbom Shingwit Demku Bomban Dellior Kares Namvip Raku Nilzol Sein'in
+				Tanrar Riartou Nakvip Rezem Retnal Sasmi Chulban Vares Zhinri Saksham Dangfoik
+				Muetlai Ilvan Temi Puingkau Nanmai Pisli Nesmit Moumi Nittoum Hiuna Duadep Zhinlior
+				Shingnam Duskel Zotnil Tenmai Demrar Dangdur Kiursham Vanlai Shingni Zemnak Lesham
+				Lidur Natgit Kancher Choupan Litze Demge Liornio Giupri Nalnil Dem'i Vekpan Kanku
+				Sham'i Rarvip Ranro Riteng Dustoum Nakdep Zenan Luli Laipe Muntat Niausriu Ramsa
 				Binlhel Miarni Natsham Lises Kellom Miargit Litrar Sabin Sadur Lenil Shamdus Zar'i
-				Leli Toumnos Dusbel Nolsein Bomrir Towzem Kuban Lomku Natmit Demze Cherar Rinam
+				Leli Toumnos Dusbel Nolsein Bomrir Touzem Kuban Lomku Natmit Demze Cherar Rinam
 				Witsas Natlit Niosham Aispil Seurjil Foikban Shingma Lilit Luching Chite Piste
 			}
 		}
@@ -227,27 +227,27 @@ Morosi = {
 			
 			# Always combined with a second name
 			first_names = {
-				Vekching Chitnol Dangbel Kuitni Tuarcher Kuattuar Nemtoum Tenrar Liorkaw Ses'in
-				Hiwlay Riwli Jipzuais Shilit Gechul Mitlhel Ramsas Daktut Murar Aisnin Nandep Rize
-				Numi Donuam Shosbom Piltow Jilli Zotsein Lesnu Tengram Kaurrin Kitsaw Gitwit Hiwnin
-				Nanzot Banmi Shinol Jipzol Kortut Giupnak Vutnan Rotpuing Mayzol Gena Nesgit Daipnem
+				Vekching Chitnol Dangbel Kuitni Tuarcher Kuattuar Nemtoum Tenrar Liorkau Ses'in
+				Hiulai Riuli Jipzuais Shilit Gechul Mitlhel Ramsas Daktut Murar Aisnin Nandep Rize
+				Numi Donuam Shosbom Piltou Jilli Zotsein Lesnu Tengram Kaurrin Kitsau Gitwit Hiunin
+				Nanzot Banmi Shinol Jipzol Kortut Giupnak Vutnan Rotpuing Maizol Gena Nesgit Daipnem
 				Kiasa Zotres Shiren Chirres
 			}
 			
 			# Always combined with a first name
 			second_names = {
-				Shisa Muetban Chitnio Tengtut Shamvuel Shosnam Rirtat Mugit Rirkaw Nakan Gedus Roram
+				Shisa Muetban Chitnio Tengtut Shamvuel Shosnam Rirtat Mugit Rirkau Nakan Gedus Roram
 				Kialit Nemge Cherpis Tenni Zolnan Doteng Sonpe Dusnuam Sesnil Resna Inri Niojil
 				Durnil Tenchul Kuitsa Kennos Naku Sazhit Sasnal Nudus Kiakuap Likpuing Depchul
-				Zarkan Rettut Kawlhel Kitzhin Chenil Lupe Natnin Sontat Famro Ital Japcher Seurdep
-				Rotmay Senlhel Rarnuam
+				Zarkan Rettut Kaulhel Kitzhin Chenil Lupe Natnin Sontat Famro Ital Japcher Seurdep
+				Rotmai Senlhel Rarnuam
 			}
 			
 			regnal_full_names = {
-				Iro Ripan Ramren Taltuar Miwlior Rinmi Miarriw Navip Rinak Nincher Dangli Nafoik
-				Nioram Riardur Kariw Chirzem Bomdus Seinban Nagit Nanzem Zetat Chitnin Nesne Napku
-				Resku Dantal Miarrar Towteng Foiksaw Chitres Chirzuais Botkuap Totli Vuellom
-				Shosdaip Towlit Liram Riram Taltuar Shoste Sondaip Liorching Botres Ramsas Raknem
+				Iro Ripan Ramren Taltuar Miulior Rinmi Miarriu Navip Rinak Nincher Dangli Nafoik
+				Nioram Riardur Kariu Chirzem Bomdus Seinban Nagit Nanzem Zetat Chitnin Nesne Napku
+				Resku Dantal Miarrar Touteng Foiksau Chitres Chirzuais Botkuap Totli Vuellom
+				Shosdaip Toulit Liram Riram Taltuar Shoste Sondaip Liorching Botres Ramsas Raknem
 				Depnos Rarro Vutnuam Kuatkuap Tendaip
 			}
 		}

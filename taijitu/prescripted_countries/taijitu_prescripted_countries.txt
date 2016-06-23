@@ -114,7 +114,7 @@ hemms = {
 
 moros = {
 	name = moros
-	spawn_enabled = no
+	spawn_enabled = yes
 	
 	name_list = Morosi
 	
@@ -126,7 +126,7 @@ moros = {
 	trait = trait_communal
 	trait = trait_natural_sociologists
 	trait = trait_decadent
-	portrait = rep1
+	portrait = rep6
 	adjective = Mor'osi
 	
 	government = divine_mandate
@@ -145,8 +145,8 @@ moros = {
 	
 	empire_flag = {
 		icon = {
-			category = custom
-			file = custom_2.dds
+			category = pointy
+			file = flag_pointy_12.dds
 		}
 		background = {
 			category = backgrounds
@@ -163,8 +163,8 @@ moros = {
 	ruler = {
 		name = Iro
 		gender = male
-		portrait = rep1
-		texture = 2
-		clothes = 3
+		portrait = rep6
+		texture = 7
+		clothes = 5
 	}
 }
