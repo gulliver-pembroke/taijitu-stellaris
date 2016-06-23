@@ -244,12 +244,20 @@ Morosi = {
 				Rotmai Senlhel Rarnuam
 			}
 			
-			regnal_full_names = {
+			regnal_first_names_male = {
 				Iro Ripan Ramren Taltuar Miuyor Rinmi Miaryu Navip Rinak Nhincher Dangli Nafoik
 				Nhoram Yardur Kayu Chirzem Bomdus Seinban Nagit Nanzem Zetat Chitnhin Nesne Napku
-				Resku Dantal Miarrar Touteng Foiksau Chitres Chirzuais Botkuap Totli Vellom
-				Shosdaip Toulit Liram Riram Taltuar Shoste Sondaip Yorching Botres Ramsas Raknem
-				Depnos Rarro Vutnuam Kuatkuap Tendaip
+				Resku
+			}
+			
+			regnal_first_names_female = {
+				Dantal Miarrar Touteng Foiksau Chitres Chirzuais Botkuap Totli Vellom Shosdaip
+				Toulit Liram Riram Taltuar Shoste Sondaip Yorching Botres Ramsas Raknem Depnos Rarro
+				Vutnuam Kuatkuap Tendaip
+			}
+			
+			regnal_second_names = {
+				""
 			}
 		}
 	}
