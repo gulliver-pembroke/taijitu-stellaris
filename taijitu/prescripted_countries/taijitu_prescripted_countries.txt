@@ -130,8 +130,8 @@ moros = {
 	adjective = Mor'osi
 	
 	government = divine_mandate
-	ethic = ethic_fanatic_spiritualist
-	ethic = ethic_collectivist
+	ethic = ethic_spiritualist
+	ethic = ethic_fanatic_collectivist
 	
 	weapon = tech_lasers_1
 	ftl = hyperdrive
