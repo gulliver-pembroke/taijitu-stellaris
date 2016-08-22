@@ -123,15 +123,14 @@ moros = {
 	species_adjective = Mor'osi
 	species_class = REP
 	trait = trait_enduring
-	trait = trait_communal
-	trait = trait_natural_sociologists
+	trait = trait_conformists
 	trait = trait_decadent
 	portrait = rep6
 	adjective = Mor'osi
 	
 	government = divine_mandate
-	ethic = ethic_spiritualist
-	ethic = ethic_fanatic_collectivist
+	ethic = ethic_fanatic_spiritualist
+	ethic = ethic_collectivist
 	
 	weapon = tech_lasers_1
 	ftl = hyperdrive

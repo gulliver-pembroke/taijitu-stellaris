@@ -86,6 +86,9 @@ Morosi = {
 	}
 
 	fleet_names = {
+		random_names = {
+			"Golden Fleet" "Iron Fleet" "Silver Fleet" "Crimson Fleet" "Azure Fleet" "Swift Fleet" "Great Fleet" "Divine Fleet"
+		}
 		sequential_name = "%O% Heavenly Fleet"
 	}
 	
@@ -116,7 +119,7 @@ Morosi = {
 		}
 		
 		psionic_army = { 
-			sequential_name = "%O% Seers"
+			sequential_name = "%O% Enlightened"
 		}
 		
 		xenomorph_army = {
