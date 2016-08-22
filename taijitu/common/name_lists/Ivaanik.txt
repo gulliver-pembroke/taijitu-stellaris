@@ -1,0 +1,241 @@
+### Ivaanik
+Ivaanik = {
+	### SHIPS
+
+	ship_names = {
+
+		generic = {
+			Norngannalorit Usammigut Inisallitup Narnersut Anusagut Oqqartat Tergissussat
+			Susiarsaterqat Atorlusat Anngiunallat Atsiarlik Aleergat Tutimuppaqqit Iliitut Nuganumit
+			Ortusat Sanuerqiaqat Amoqqorgak Uggormunnarut Suamallutuit Narqitarsut Akissuk Satsanuk
+			Armormitoq Nissatatsak Naranatseq Aqerkiit Tummitiut Nersiutut Numiparnut Ertiorfak
+			Tormiparaq Erortaqqut Erkammuk Norkakkit Arlinngat Nuvanimmip Torsitsak Tatumit
+			Nummiguit Tiamerlit Qorlulik Ingamugguk Sunipunatit Annissit Qoqinisat Tatanartut
+			Utsuppummit Pungunat Toqimorqialat Narmiisuaq Atarnorlit Nimmarsat Niluvarqup Nallinngap
+			Napatermat Alisarrap Sargatsip Tiyaqullak Tamussalugut Immiutsunit Tarsimit Anningoq
+			Patsasagut Aniallameq Kilusermoq Tanngerlusinuk Saqqinut Usarqut Nagiatsat Ulannat
+			Namaqassik Ammarmeq Nullorrussat Tanannoq Toqiffat Atsippuasit Tanniimitat Issasseq
+			Qerrisut Alertarlut Iggissimiput Nullinap Qeerlarulaq Assussallit Tasivumiuvak Nagiasuuk
+			Parluppak Aserlat Natissulissat Immeriup Anarqiggunuit Nanuggoqqut Qatilut Nillitsamat
+			Oqqalaqqorlap Nerorpat Munoqak Ninapisat Tamilluk
+		}
+		
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		science = {
+		}
+		
+		colonizer = {
+		}
+		
+		constructor = {
+		}
+		
+		
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			random_names = { }
+			sequential_name = "%O% Frontier Outpost"
+		}
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
+	}
+
+	fleet_names = {
+		random_names = {
+			"Joint Expeditionary Fleet" "Strategic Readiness Fleet" "Tactical Response Fleet" "Rapid Strike Fleet" "Forward Defense Fleet"
+		}
+		sequential_name = "%O% Stellar Fleet"
+	}
+	
+	army_names = {
+	
+		defense_army = {
+			sequential_name = "%O% Colonial Watch"
+		}
+			
+		assault_army = {
+			sequential_name = "%O% Assault Group"
+		}
+		
+		slave_army = {
+			sequential_name = "%O% Penal Corps"
+		}
+		
+		clone_army = { 
+			sequential_name = "%O% Tankbred Regulars"
+		}
+		
+		robotic_army = {
+			sequential_name = "%O% Battle Drone Wing"
+		}
+		
+		android_army = {
+			sequential_name = "%O% Droid Commando"
+		}
+		
+		psionic_army = { 
+			sequential_name = "%O% Psi-Ops Command"
+		}
+		
+		xenomorph_army = {
+			sequential_name = "%O% Shock Swarm"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = "%O% Purebloods"
+		}
+	}
+
+	### PLANETS
+
+	planet_names = {
+
+		generic = {
+			names = {
+				Atasulut Ilorlaq Tamuvoq Nulersat Inaqanap Utermuussap Tangassut Unaqarqissut
+				Nanaleqquk Eqqasut Sitsasoq Nermusaq Sorlormasat Orrorlap Ulatsakik Talluarliip
+				Sayinut Tusialooq Qertangak Qarqorsorarmuit Qinnuisik Qersaminat Tarmikak Tarqavamut
+				Quillerliluk Oqqaqqiat Qukaqqergut Taganiak Atapangik Satsulaniit Teersulatak
+				Qarnerninik Nugatorat Nanngunnut Avisarpulap Anulorut Qoqulat Quutillat Nimortat
+				Asusorlut Oqqumatseq Qanniissit Tasukkat Nasannip Tippumit Tallaqortut Maqqerfoq
+				Tumussuuk Normasut Sassimmiguk Siniigannut Isarsalit Agarqut Normerroq Natuniasuk
+				Ermatit Nisuisamit Asisimmoq Qiamuppasitak Eqissat Tartapit Ipequmat Alliallarmap
+				Kartumit Ulluamat Tarlorqut Tarmerappeq Immuigimusip Sannutiyip Narrallasip
+				Tinnaniat Agarrequk Kartiaqqiamalik Aqiparniit Sanuffeq Ulaneqqat Imumateeq Tipaqik
+				Aliummit Tatsatuut Ummullisit Nequssiggut Pallerkussut Ussassat Tikkaqit Ikumaqqat
+				Inermayaq Nuniiggit Orlisasak Nupuapuup Nilaffiat Unniluk Itsorrimmat Terkammit
+				Siutaluk Ernitsip Igananit Ussukut Iyassilut Tasaffeqqut Nineqqat Immasik Punaparsat
+				Qatsatsitiit Tasoqqik Tangutammartat Naqalat Tasarsutat Sukugissak Serpinnanalat
+				Noqargarat Tamilliarmuullik Nimuliat Tanapasiuk Misserngannut Numuermarqit
+				Sumartaggarsap Nitsasut Amatimmit Nargiit Qinnuinuk Tummamat Nutsarsoqqat Tullagut
+				Isasasik Erlalik Ulersuat Ormiaqoq Teeqqit Naqqannuak Ernusermorqat Teeqqik
+				Nornorrugat Qerquik Annaffupat Narlumuk Ugergappeq Tarqarorlamat Tapilap Terlarut
+				Qiorrammitilat Assaggunit Orparkut Ivarisaq Targinnipak Saqippat Anassaq Unnannak
+				Nusarnak Ummiimoq Taqummuk Atuparqeq Nikakarsutsik Ernuitsit Asulayat Igoralut
+				Mungamuk Qisuasalat Qilaloqqak Qasaqisat Sormanummat Nallutsutsit Tiitsusulat
+				Angagarfit Siguasinnit Qallayivaq Ummaluaq Aqqilut Qulannat Tagoorumut Itaffiagut
+				Nimmorqarlit Nimorat Naqarlut Nitargak Unnuinat Quarsimmiissat Sagunimmit
+				Ummerngarloq Qitsormiut Sumuluaq Upagarrit Pioqulitoq Siloqqik Niginasut Naloorgat
+				Teroqorfut Nuituut Parmagguk Nummorqit Teqiimitsak Annammit Sarsilarsuutik
+				Tunalukisat Oqorrilak Inullammat Ippornaluk Ortersik Noquagipat Imarngumut Nussormat
+				Natannak Suvunitut Qaffitalit Tippannullerrat Nulassip Qalinallut Imunnat Isalutat
+				Nullargat Ernitsapperit Ormalugat Sagisannit Orgatimiagit Kasusasiuk Aleqqut
+				Amuillarloqqik Toqitsulat Oqassat Asarsalat Qummatuk Siimiutuat Tamormutoq Saqulat
+				Sarlillitak Isuarmuerlat Qiikisik Alinngarat Taqqassat Nutsalluat Nameqit Taqqormut
+				Ninarqillat Talummanaq Noqernanalliuk Norarmup Ulersat Tamminisut Quguput
+				Eqqakarsiap Aleerrullargak Mapanalliumat Tullarmak Ammertut Ilimmamaq Qimmimeq
+				Nannatsit Qortilut Neqqarat Asarquatut Ussorlikaq Narparmit Niarmugalliat
+				Arliupammut Ilisunak Innatip Nerissiit Aggusilalak Nornaluk Ummorruppap Natsoqup
+				Tumumup Tusamimmut Neqqiffuussak Tilulertut Illoqqoq Nerqaqiaqip Nulaggat Tutagit
+				Misulik Pimmisuut Anniggarqit Sammunut Tusanoraq Namummat Inumumiit Inuaqqik
+				Issuleqinat Termuakut Qunueqat Asarsaggut Eqqeqat Tillatullartik Illisusit
+				Qasiorsumiit Nassagit Naqquimmanortut Isunnitsiaq Nutuppeq Nunniak Qimmamit Alalusit
+				Susalipit Qerniarmannat Tamarnut Usatereq Tinngerlulat Qerrorlut Tigguggalat Utsipik
+				Sigatiut Atsarsertat Nippinit Pagatsat Isannoq Tuneqqalluggit Tanapuiffuk
+				Narsarlilullut Arqiarlat Nunimusippuak Tumuaqiak Ussoqat Napilit Sammasat Anerlulak
+				Aqartatat Ulormat Tequitalliap Amerulut Pulaligut Qatammuatut Tiataterrat Tasaquk
+				Tamassornioq Tululut Nutsiilinuk Suggeqqat Tillilak Ammiulassit Usunnat Nuitsuk
+				Tiaqamasat Namulamasiat Orqanaloq Nupitannuk Tiguullaniarmiak Tisoqit Ernapitat
+				Ussarliallik Sunusinnissut Tueqqik Patimuaq Niffullak Tararpat Nammarrik Arlorlannap
+				Talakkarnaq Tarmuik Nutsumarrualak Ilassak Talusat Tutuartinnit Arkituk Tiamanalluk
+				Tagarik Aseequllortik Alassit Naqqarnup Qorsisulliamuak Qungasannik Qusimunut
+				Ussisut Errimit Narqatallipeq Qeqikik Tunniinuk Nupalut Neqqaquimeqoq Pertimeq
+				Torriorlak Tallarmiat Imipuliortit Utoqanit Taralimiat Alallerlat Pingangut
+				Parpuffap Muluupamannut Tammarfiit Ornarruarlipit Aloqilit Ussorsulut Tipertaqut
+				Tutsassiisat Tumallulaq Ermimiggeq Kupitamat Uterfanut Amimunnut Sorratat Puapeqak
+				Alularngat Nuitsasorrat Iniffut Tiitsorkarat Salarfak Taqaqammip Suatimmat Ninukaq
+				Ernaterriamiit
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+		
+	}
+
+	### CHARACTERS
+
+	character_names = {
+		default = {
+			full_names_male = {
+				Pilormut Taseq Orriak Tianalut Nappituk Sasit Mermiasoq Ulalit Quyertut Siimmat
+				Toqasit Simmuk Qavat Toqqisap Sullaqqut Puyat Natukap Tutsoq Igguerqik Itiguk Tarnaq
+				Tupit Illuk Arsak Erravingik
+			}
+			
+			full_names_female = {
+				Anutusit Nisserpik Noqorsut Ulilit Tumarlik Atasaliit Orumuut Erqillit Unuut
+				Ernimeqit Tusasut Armik Qarak Illarmik Pumunut Eqarrik Suanigat Parunnup Oqqit
+				Qalutuk Isernusat Tunukut Niummatit Atatsat Oqagap
+			}
+			
+			regnal_first_names_male = {
+				Pilormut Taseq Orriak Tianalut Nappituk Sasit Mermiasoq Ulalit Quyertut Siimmat
+				Toqasit Simmuk Qavat Toqqisap Sullaqqut Puyat Natukap Tutsoq Igguerqik Itiguk Tarnaq
+				Tupit Illuk Arsak Erravingik
+			}
+			
+			regnal_first_names_female = {
+				Anutusit Nisserpik Noqorsut Ulilit Tumarlik Atasaliit Orumuut Erqillit Unuut
+				Ernimeqit Tusasut Armik Qarak Illarmik Pumunut Eqarrik Suanigat Parunnup Oqqit
+				Qalutuk Isernusat Tunukut Niummatit Atatsat Oqagap
+			}
+			
+			regnal_second_names = {
+				Teerqormuaq Qoqqummusik Kiggannamimak Tormipargusit Usivaluviup Tormoqqilluk
+				Nermalaliat Nuppatsalat Tussasuagat Qissatorput Tartalloqqak Iliammarlormit
+				Tuleeqarlunnat Sorserseqqut Nallillusak Suasummiatut Ilannigallit Matuggergat
+				Siormorgiarmialloq Noqqingilerqat
+			}
+		}
+	}
+}
