@@ -167,3 +167,61 @@ moros = {
 		clothes = 5
 	}
 }
+
+ivaanik = {
+	name = ivaanik
+	spawn_enabled = yes
+	
+	name_list = Ivaanik
+	
+	species_name = Ivaanik
+	species_plural = Ivaanik
+	species_adjective = Ivaanik
+	species_class = MAM
+	trait = trait_industrious
+	trait = trait_thrifty
+	trait = trait_nonadaptive
+	portrait = rep6
+	adjective = Ivaanik
+	
+	government = enlightened_monarchy
+	ethic = ethic_pacifist
+	ethic = ethic_spiritualist
+	ethic = ethic_collectivist
+	
+	
+	weapon = tech_lasers_1
+	ftl = wormhole
+	
+	planet_name = Tallasak
+	planet_class = pc_arctic
+	system_name = Anngarpoq
+	
+	graphical_culture = mammalian_01
+	city_graphical_culture = mammalian_01
+	
+	empire_flag = {
+		icon = {
+			category = pointy
+			file = flag_pointy_12.dds
+		}
+		background = {
+			category = backgrounds
+			file = 00_solid.dds
+		}
+		colors = {
+			red
+			red
+			null
+			null
+		}
+	}
+	
+	ruler = {
+		name = Simmuk I
+		gender = male
+		portrait = rep6
+		texture = 7
+		clothes = 5
+	}
+}

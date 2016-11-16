@@ -67,11 +67,11 @@ Ivaanik = {
 	army_names = {
 	
 		defense_army = {
-			sequential_name = "%O% Colonial Watch"
+			sequential_name = "%O% Peacekeepers"
 		}
 			
 		assault_army = {
-			sequential_name = "%O% Assault Group"
+			sequential_name = "%O% Incursion Corps"
 		}
 		
 		slave_army = {
@@ -79,23 +79,23 @@ Ivaanik = {
 		}
 		
 		clone_army = { 
-			sequential_name = "%O% Tankbred Regulars"
+			sequential_name = "%O% Clone Corps"
 		}
 		
 		robotic_army = {
-			sequential_name = "%O% Battle Drone Wing"
+			sequential_name = "%O% Drone Corps"
 		}
 		
 		android_army = {
-			sequential_name = "%O% Droid Commando"
+			sequential_name = "%O% Droid Corps"
 		}
 		
 		psionic_army = { 
-			sequential_name = "%O% Psi-Ops Command"
+			sequential_name = "%O% Psionic Corps"
 		}
 		
 		xenomorph_army = {
-			sequential_name = "%O% Shock Swarm"
+			sequential_name = "%O% Swarm Corps"
 		}
 		
 		gene_warrior_army = {
