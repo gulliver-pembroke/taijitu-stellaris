@@ -206,16 +206,12 @@ Ivaanik = {
 
 	character_names = {
 		default = {
-			full_names_male = {
+			full_names = {
 				Pilormut Taseq Orriak Tianalut Nappituk Sasit Mermiasoq Ulalit Quyertut Siimmat
-				Toqasit Simmuk Qavat Toqqisap Sullaqqut Puyat Natukap Tutsoq Igguerqik Itiguk Tarnaq
-				Tupit Illuk Arsak Erravingik
-			}
-			
-			full_names_female = {
-				Anutusit Nisserpik Noqorsut Ulilit Tumarlik Atasaliit Orumuut Erqillit Unuut
-				Ernimeqit Tusasut Armik Qarak Illarmik Pumunut Eqarrik Suanigat Parunnup Oqqit
-				Qalutuk Isernusat Tunukut Niummatit Atatsat Oqagap
+				Toqasit Simmuk Qavat Toqqisap Sullaqqut Puyat Natukap Tutsoq Igguerqik Itiguk
+				Tarnaq Tupit Illuk Arsak Erravingik Anutusit Nisserpik Noqorsut Ulilit Tumarlik
+				Atasaliit Orumuut Erqillit Unuut Ernimeqit Tusasut Armik Qarak Illarmik Pumunut
+				Eqarrik Suanigat Parunnup Oqqit Qalutuk Isernusat Tunukut Niummatit Atatsat Oqagap
 			}
 			
 			regnal_first_names_male = {
