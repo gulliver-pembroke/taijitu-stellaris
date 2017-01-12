@@ -80,7 +80,7 @@ hemms = {
 	ftl = hyperdrive
 	
 	planet_name = Hemmayot
-	planet_class = pc_tundra
+	planet_class = pc_alpine
 	system_name = Hrun
 	
 	graphical_culture = mammalian_01
@@ -122,7 +122,7 @@ ivaanik = {
 	species_plural = Ivaanik
 	species_adjective = Ivaanik
 	species_class = MAM
-	trait = trait_charismatic
+	trait = trait_enduring
 	trait = trait_communal
 	trait = trait_natural_sociologists
 	trait = trait_sedentary
@@ -130,16 +130,15 @@ ivaanik = {
 	adjective = Ivaanik
 	
 	government = enlightened_monarchy
-	ethic = ethic_pacifist
-	ethic = ethic_spiritualist
-	ethic = ethic_collectivist
+	ethic = ethic_fanatic_pacifist
+	ethic = ethic_xenophobe
 	
 	
 	weapon = tech_lasers_1
 	ftl = wormhole
 	
 	planet_name = Tallasak
-	planet_class = pc_alpine
+	planet_class = pc_tundra
 	system_name = Anngarpoq
 	
 	graphical_culture = mammalian_01
