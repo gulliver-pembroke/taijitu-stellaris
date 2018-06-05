@@ -3,4 +3,4 @@ path="mod/taijitu"
 tags={
 	"Aesthetic"
 }
-supported_version="1.4.1"
+supported_version="2.1.0"

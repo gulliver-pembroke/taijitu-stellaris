@@ -44,13 +44,7 @@ Ivaanik = {
 		
 		mining_station = { }
 		research_station = { }
-		wormhole_station = { }
-		terraform_station = { }
 		observation_station = { }
-		outpost_station = {
-			random_names = { }
-			sequential_name = "%O% Frontier Outpost"
-		}
 
 		military_station_small = {}
 		military_station_medium = {}

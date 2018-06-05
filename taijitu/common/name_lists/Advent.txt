@@ -32,6 +32,7 @@ Advent = {
 			Supremacy Sympathy Vigil
 		}
 		
+		cruiser =  {
 			Absolution Altruism Arsenal Ascendence Barrier Bastion Benediction Benevolence Blockade
 			Charity Citadel Clemency Compassion Dominion Empathy Fastness Firmament Fortress
 			Generosity Judgment Magnanimity Mercy Palisade Protection Rampart Redoubt Salvation
@@ -61,13 +62,7 @@ Advent = {
 		
 		mining_station = { }
 		research_station = { }
-		wormhole_station = { }
-		terraform_station = { }
 		observation_station = { }
-		outpost_station = {
-			random_names = { }
-			sequential_name = "%O% Frontier Outpost"
-		}
 
 		military_station_small = {}
 		military_station_medium = {}
